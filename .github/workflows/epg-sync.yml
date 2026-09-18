@@ -11,9 +11,8 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        # Define the top regions you want to scrape here.
-        # Add or remove countries as needed (e.g., 'us', 'uk', 'ca', 'au', 'in', 'pk', 'fr', 'de', 'es', 'it')
-        country: ['us', 'uk', 'ca', 'au', 'in']
+        # We will split the massive list of channels by Language using the --lang flag
+        language: ['en', 'es', 'fr', 'de', 'it', 'ar', 'hi']
     
     steps:
       - name: Checkout Code
@@ -27,17 +26,15 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Grab EPG for ${{ matrix.country }}
-        run: npm run grab -- --country ${{ matrix.country }} --maxConnections 10 --days 3
-
-      - name: Rename File for Upload
-        run: mv guide.xml guide-${{ matrix.country }}.xml
+      - name: Grab EPG for Language
+        # Instead of --country, we use --lang which is supported by the new iptv-org version
+        run: npx tsx scripts/commands/epg/grab.ts --channels "sites/**/*.channels.xml" --lang ${{ matrix.language }} --output guide-${{ matrix.language }}.xml --maxConnections 10 --days 3
 
       - name: Upload Chunk Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: epg-${{ matrix.country }}
-          path: guide-${{ matrix.country }}.xml
+          name: epg-${{ matrix.language }}
+          path: guide-${{ matrix.language }}.xml
 
   merge:
     needs: grab
