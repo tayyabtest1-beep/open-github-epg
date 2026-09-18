@@ -11,8 +11,12 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        # We will split the massive list of channels by Language using the --lang flag
-        language: ['en', 'es', 'fr', 'de', 'it', 'ar', 'hi']
+        # Massive global coverage by ISO 639-1 Language Codes
+        # en=English, es=Spanish, fr=French, de=German, it=Italian, ar=Arabic, hi=Hindi
+        # ur=Urdu (Pakistan), ru=Russian, pt=Portuguese (Brazil/Portugal), zh=Chinese
+        # ja=Japanese, ko=Korean, tr=Turkish, nl=Dutch, pl=Polish, sv=Swedish
+        # el=Greek, th=Thai, vi=Vietnamese, id=Indonesian
+        language: ['en', 'es', 'fr', 'de', 'it', 'ar', 'hi', 'ur', 'ru', 'pt', 'zh', 'ja', 'ko', 'tr', 'nl', 'pl', 'sv', 'el', 'th', 'vi', 'id']
     
     steps:
       - name: Checkout Code
@@ -27,7 +31,6 @@ jobs:
         run: npm install
 
       - name: Grab EPG for Language
-        # Instead of --country, we use --lang which is supported by the new iptv-org version
         run: npx tsx scripts/commands/epg/grab.ts --channels "sites/**/*.channels.xml" --lang ${{ matrix.language }} --output guide-${{ matrix.language }}.xml --maxConnections 10 --days 3
 
       - name: Upload Chunk Artifact
