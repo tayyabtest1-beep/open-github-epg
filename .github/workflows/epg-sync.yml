@@ -33,7 +33,7 @@ jobs:
       - name: Grab EPG for Language
         env:
           NODE_OPTIONS: '--max-old-space-size=6144'
-        run: npx tsx scripts/commands/epg/grab.ts --channels "sites/**/*.channels.xml" --lang ${{ matrix.language }} --output guide-${{ matrix.language }}.xml --maxConnections 10 --days 3
+        run: npx tsx scripts/commands/epg/grab.ts --channels "sites/**/*.channels.xml" --lang ${{ matrix.language }} --output guide-${{ matrix.language }}.xml --maxConnections 20 --days 1
 
       - name: Upload Chunk Artifact
         uses: actions/upload-artifact@v4
