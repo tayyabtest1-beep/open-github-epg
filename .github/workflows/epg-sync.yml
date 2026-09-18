@@ -1,0 +1,121 @@
+name: Global EPG Scraper
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Run daily at midnight UTC
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        # Define the top regions you want to scrape here.
+        # Add or remove countries as needed (e.g., 'us', 'uk', 'ca', 'au', 'in', 'pk', 'fr', 'de', 'es', 'it')
+        country: ['us', 'uk', 'ca', 'au', 'in']
+    
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Grab EPG for ${{ matrix.country }}
+        run: npm run grab -- --country ${{ matrix.country }} --maxConnections 10 --days 3
+
+      - name: Rename File for Upload
+        run: mv guide.xml guide-${{ matrix.country }}.xml
+
+      - name: Upload Chunk Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: epg-${{ matrix.country }}
+          path: guide-${{ matrix.country }}.xml
+
+  merge:
+    needs: grab
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Download all chunks
+        uses: actions/download-artifact@v4
+        with:
+          path: chunks
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Merge XML Files
+        run: |
+          echo "Writing merge script..."
+          cat << 'EOF' > merge.js
+          const fs = require('fs');
+          const path = require('path');
+          
+          const chunksDir = path.join(__dirname, 'chunks');
+          const output = path.join(__dirname, 'global-epg.xml');
+          
+          let channels = [];
+          let programmes = [];
+          
+          const folders = fs.readdirSync(chunksDir);
+          folders.forEach(folder => {
+            const folderPath = path.join(chunksDir, folder);
+            if (fs.statSync(folderPath).isDirectory()) {
+              const files = fs.readdirSync(folderPath);
+              files.forEach(file => {
+                if (file.endsWith('.xml')) {
+                  const content = fs.readFileSync(path.join(folderPath, file), 'utf8');
+                  
+                  // Extract <channel> blocks
+                  const channelMatches = content.match(/<channel[\s\S]*?<\/channel>/g);
+                  if (channelMatches) channels.push(...channelMatches);
+                  
+                  // Extract <programme> blocks
+                  const progMatches = content.match(/<programme[\s\S]*?<\/programme>/g);
+                  if (progMatches) programmes.push(...progMatches);
+                }
+              });
+            }
+          });
+          
+          // Deduplicate channels by id
+          const uniqueChannels = [];
+          const seenIds = new Set();
+          channels.forEach(ch => {
+            const idMatch = ch.match(/id="([^"]+)"/);
+            if (idMatch && !seenIds.has(idMatch[1])) {
+              seenIds.add(idMatch[1]);
+              uniqueChannels.push(ch);
+            }
+          });
+          
+          const finalXml = `<?xml version="1.0" encoding="UTF-8"?>
+          <tv generator-info-name="AvelixTV-Global" generator-info-url="https://github.com/tayyabtest1-beep/open-github-epg">
+            ${uniqueChannels.join('\n  ')}
+            ${programmes.join('\n  ')}
+          </tv>`;
+          
+          fs.writeFileSync(output, finalXml);
+          console.log(`Merged ${uniqueChannels.length} channels and ${programmes.length} programs!`);
+          EOF
+          node merge.js
+
+      - name: Commit and Push Global EPG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add global-epg.xml
+          git commit -m "Automated Global EPG Update" || echo "No changes to commit"
+          git push origin main
