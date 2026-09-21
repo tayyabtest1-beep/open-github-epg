@@ -32,8 +32,13 @@ module.exports = {
       // common utility
       const v = { e: [], d: date, p: 1 }
       const ev = (res, url) => {
-        if (typeof res === 'string' || Buffer.isBuffer(res)) {
-          res = JSON.parse(res)
+                if (typeof res === 'string' || Buffer.isBuffer(res)) {
+          try {
+            res = JSON.parse(res)
+          } catch (e) {
+            console.error('Failed to parse JSON from tv.mail.ru:', e.message);
+            res = {};
+          }
         }
         if (Array.isArray(res?.data?.schedule?.items)) {
           res.data.schedule.items
@@ -243,3 +248,4 @@ async function followUrl(url) {
 
   return await f()
 }
+
