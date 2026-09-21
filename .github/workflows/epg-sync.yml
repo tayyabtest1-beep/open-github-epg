@@ -53,6 +53,12 @@ jobs:
         with:
           path: chunks
 
+      - name: Fetch massive regions instantly from upstream (en, ru)
+        run: |
+          mkdir -p chunks/upstream
+          curl -s -L https://iptv-org.github.io/epg/guides/ru/guide.xml -o chunks/upstream/guide-ru.xml
+          curl -s -L https://iptv-org.github.io/epg/guides/en/guide.xml -o chunks/upstream/guide-en.xml
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -121,3 +127,4 @@ jobs:
           git add global-epg.xml
           git commit -m "Automated Global EPG Update" || echo "No changes to commit"
           git push origin main
+
