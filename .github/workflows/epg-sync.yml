@@ -16,7 +16,7 @@ jobs:
         # ur=Urdu (Pakistan), ru=Russian, pt=Portuguese (Brazil/Portugal), zh=Chinese
         # ja=Japanese, ko=Korean, tr=Turkish, nl=Dutch, pl=Polish, sv=Swedish
         # el=Greek, th=Thai, vi=Vietnamese, id=Indonesian
-        language: ['es', 'fr', 'de', 'it', 'ar', 'hi', 'ur', 'pt', 'zh', 'ja', 'ko', 'tr', 'nl', 'pl', 'sv', 'el', 'th', 'vi', 'id']
+        language: ['en', 'ru', 'es', 'fr', 'de', 'it', 'ar', 'hi', 'ur', 'pt', 'zh', 'ja', 'ko', 'tr', 'nl', 'pl', 'sv', 'el', 'th', 'vi', 'id']
     
     steps:
       - name: Checkout Code
@@ -33,7 +33,7 @@ jobs:
       - name: Grab EPG for Language
         env:
           NODE_OPTIONS: '--max-old-space-size=6144'
-        run: npx tsx scripts/commands/epg/grab.ts --channels "sites/**/*.channels.xml" --lang ${{ matrix.language }} --output guide-${{ matrix.language }}.xml --maxConnections 20 --days 1
+        run: npx tsx scripts/commands/epg/grab.ts --channels "sites/**/*.channels.xml" --lang ${{ matrix.language }} --output guide-${{ matrix.language }}.xml --maxConnections 20 --days 1 --timeout 3000
 
       - name: Upload Chunk Artifact
         uses: actions/upload-artifact@v4
@@ -53,11 +53,7 @@ jobs:
         with:
           path: chunks
 
-      - name: Fetch massive regions instantly from upstream (en, ru)
-        run: |
-          mkdir -p chunks/upstream
-          curl -s -L https://iptv-org.github.io/epg/guides/ru/guide.xml -o chunks/upstream/guide-ru.xml
-          curl -s -L https://iptv-org.github.io/epg/guides/en/guide.xml -o chunks/upstream/guide-en.xml
+
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -127,4 +123,6 @@ jobs:
           git add global-epg.xml
           git commit -m "Automated Global EPG Update" || echo "No changes to commit"
           git push origin main
+
+
 
