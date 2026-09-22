@@ -43,6 +43,7 @@ jobs:
 
   merge:
     needs: grab
+    if: always()
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
@@ -123,6 +124,7 @@ jobs:
           git add global-epg.xml
           git commit -m "Automated Global EPG Update" || echo "No changes to commit"
           git push origin main
+
 
 
 
