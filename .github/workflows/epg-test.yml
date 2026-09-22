@@ -70,7 +70,7 @@ jobs:
             const chMatch = content.match(/<channel.*?>.*?<\/channel>/gs) || [];
             const prMatch = content.match(/<programme.*?>.*?<\/programme>/gs) || [];
             
-            programmes.push(...prMatch);
+            for (let i = 0; i < prMatch.length; i++) programmes.push(prMatch[i]);
             
             chMatch.forEach(ch => {
               const idMatch = ch.match(/id="([^"]+)"/);
@@ -94,4 +94,5 @@ jobs:
         with:
           name: global-epg-test
           path: output/global-epg.xml
+
 

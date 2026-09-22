@@ -85,11 +85,11 @@ jobs:
                   
                   // Extract <channel> blocks
                   const channelMatches = content.match(/<channel[\s\S]*?<\/channel>/g);
-                  if (channelMatches) channels.push(...channelMatches);
+                  if (channelMatches) { for (let i = 0; i < channelMatches.length; i++) channels.push(channelMatches[i]); }
                   
                   // Extract <programme> blocks
                   const progMatches = content.match(/<programme[\s\S]*?<\/programme>/g);
-                  if (progMatches) programmes.push(...progMatches);
+                  if (progMatches) { for (let i = 0; i < progMatches.length; i++) programmes.push(progMatches[i]); }
                 }
               });
             }
@@ -124,6 +124,7 @@ jobs:
           git add global-epg.xml
           git commit -m "Automated Global EPG Update" || echo "No changes to commit"
           git push origin main
+
 
 
 
