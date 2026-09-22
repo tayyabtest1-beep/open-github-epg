@@ -1,0 +1,65 @@
+name: Fast EPG Test (EN & RU)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        lang: [en, ru]
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Grab EPG for Language
+        env:
+          NODE_OPTIONS: '--max-old-space-size=6144'
+        run: |
+          if [ "${{ matrix.lang }}" = "en" ]; then
+            SITES="directv.com,tvguide.co.uk"
+          else
+            SITES="tv.yandex.ru,epg.iptvx.one"
+          fi
+          
+          npm run grab --- --sites "$SITES" --lang ${{ matrix.lang }} --output guide-${{ matrix.lang }}.xml --maxConnections 20 --days 1 --timeout 3000
+
+      - name: Upload Chunk Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: epg-chunk-${{ matrix.lang }}
+          path: guide-${{ matrix.lang }}.xml
+
+  merge:
+    needs: grab
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Download all chunks
+        uses: actions/download-artifact@v4
+        with:
+          path: chunks
+
+      - name: Merge Chunks
+        run: |
+          mkdir -p output
+          npx tsx scripts/commands/epg/merge.ts --input chunks/**/*.xml --output output/global-epg.xml
+
+      - name: Upload Final Master EPG
+        uses: actions/upload-artifact@v4
+        with:
+          name: global-epg-test
+          path: output/global-epg.xml
