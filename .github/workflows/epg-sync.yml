@@ -16,7 +16,7 @@ jobs:
         # ur=Urdu (Pakistan), ru=Russian, pt=Portuguese (Brazil/Portugal), zh=Chinese
         # ja=Japanese, ko=Korean, tr=Turkish, nl=Dutch, pl=Polish, sv=Swedish
         # el=Greek, th=Thai, vi=Vietnamese, id=Indonesian
-        language: ['en', 'ru', 'es', 'fr', 'de', 'it', 'ar', 'hi', 'ur', 'pt', 'zh', 'ja', 'ko', 'tr', 'nl', 'pl', 'sv', 'el', 'th', 'vi', 'id']
+        language: ['es', 'fr', 'de', 'it', 'ar', 'hi', 'ur', 'pt', 'zh', 'ja', 'ko', 'tr', 'nl', 'pl', 'sv', 'el', 'th', 'vi', 'id']
     
     steps:
       - name: Checkout Code
@@ -124,6 +124,7 @@ jobs:
           git add global-epg.xml
           git commit -m "Automated Global EPG Update" || echo "No changes to commit"
           git push origin main
+
 
 
 
