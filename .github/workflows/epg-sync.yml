@@ -2,8 +2,8 @@ name: Global EPG Scraper
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *' # Run daily at midnight UTC
+  # schedule:
+    # - cron: '0 0 * * *' # Run daily at midnight UTC
 
 jobs:
   grab:
