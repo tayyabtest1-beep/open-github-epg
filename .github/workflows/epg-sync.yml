@@ -120,13 +120,29 @@ jobs:
           EOF
           node merge.js
 
-      - name: Commit and Push Global EPG
+      - name: Compress Global EPG
+        run: |
+          gzip -9 -c global-epg.xml > global-epg.xml.gz
+          ls -lh global-epg.*
+
+      - name: Commit and Push Compressed Global EPG
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f global-epg.xml
-          git commit -m "Automated Global EPG Update" || echo "No changes to commit"
+          git add -f global-epg.xml.gz
+          git commit -m "Automated Global EPG Update (GZIP)" || echo "No changes to commit"
           git push origin main
+
+      - name: Upload Master EPG to Release
+        uses: softprops/action-gh-release@v2
+        if: always()
+        with:
+          tag_name: latest
+          name: "Latest Global EPG"
+          prerelease: false
+          files: |
+            global-epg.xml
+            global-epg.xml.gz
 
 
 
