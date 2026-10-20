@@ -81,7 +81,6 @@
   <channel site="mi.tv" site_id="br#canc-o-nova-hd" lang="pt" xmltv_id="">Canção Nova HD</channel>
   <channel site="mi.tv" site_id="br#cartoon" lang="pt" xmltv_id="CartoonNetworkLatinAmerica.us@Brazil">Cartoon Network</channel>
   <channel site="mi.tv" site_id="br#cartoon-network-brazil-hd" lang="pt" xmltv_id="">Cartoon Network Brazil HD</channel>
-  <channel site="mi.tv" site_id="br#cgtn" lang="en" xmltv_id="CGTN.cn@SD">CGTN</channel>
   <channel site="mi.tv" site_id="br#chef-tv" lang="pt" xmltv_id="ChefTV.br@SD">Chef TV</channel>
   <channel site="mi.tv" site_id="br#cinebrasil-tv" lang="pt" xmltv_id="CineBrasilTV.br@SD">Cine Brasil TV</channel>
   <channel site="mi.tv" site_id="br#cinemax" lang="pt" xmltv_id="Cinemax.br@SD">Cinemax</channel>
@@ -296,7 +295,6 @@
   <channel site="mi.tv" site_id="br#national-geographic-hd" lang="pt" xmltv_id="">National Geographic HD</channel>
   <channel site="mi.tv" site_id="br#nbr" lang="pt" xmltv_id="">NBR</channel>
   <channel site="mi.tv" site_id="br#nbr-florianopolis" lang="pt" xmltv_id="">NBR Florianopolis</channel>
-  <channel site="mi.tv" site_id="br#nhk" lang="en" xmltv_id="">NHK</channel>
   <channel site="mi.tv" site_id="br#nhk-hd" lang="pt" xmltv_id="">NHK HD</channel>
   <channel site="mi.tv" site_id="br#nick-hd" lang="pt" xmltv_id="">Nick HD</channel>
   <channel site="mi.tv" site_id="br#nick-jr" lang="pt" xmltv_id="NickJr.br@SD">Nick Jr.</channel>

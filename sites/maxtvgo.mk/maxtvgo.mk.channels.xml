@@ -8,7 +8,6 @@
   <channel site="maxtvgo.mk" site_id="27" lang="mk" xmltv_id="ArenaSport1.rs@SD">Arena Sport 1 HD</channel>
   <channel site="maxtvgo.mk" site_id="28" lang="mk" xmltv_id="AlfaTV.mk@SD">Алфа HD</channel>
   <channel site="maxtvgo.mk" site_id="29" lang="mk" xmltv_id="TV24.mk@SD">ТВ 24 HD</channel>
-  <channel site="maxtvgo.mk" site_id="33" lang="en" xmltv_id="MTV00s.uk@SD">MTV 00s</channel>
   <channel site="maxtvgo.mk" site_id="36" lang="mk" xmltv_id="TelmaTV.mk@SD">Телма HD</channel>
   <channel site="maxtvgo.mk" site_id="37" lang="mk" xmltv_id="">KOHA</channel>
   <channel site="maxtvgo.mk" site_id="40" lang="mk" xmltv_id="TVSonce.mk@SD">ТВ Сонце</channel>
@@ -28,7 +27,6 @@
   <channel site="maxtvgo.mk" site_id="96" lang="mk" xmltv_id="vijuTV1000.ru@SD">TV 1000 HD</channel>
   <channel site="maxtvgo.mk" site_id="100" lang="mk" xmltv_id="ArenaSport4.rs@SD">Arena Sport 4 HD</channel>
   <channel site="maxtvgo.mk" site_id="103" lang="mk" xmltv_id="DaVinci.de@SD">DA VINCHI LEARNING HD</channel>
-  <channel site="maxtvgo.mk" site_id="104" lang="en" xmltv_id="MTV80s.uk@SD">MTV 80s</channel>
   <channel site="maxtvgo.mk" site_id="105" lang="mk" xmltv_id="MRT1.mk@SD">Македонска ТВ 1 HD</channel>
   <channel site="maxtvgo.mk" site_id="122" lang="mk" xmltv_id="ViasatNature.se@SD">Viasat Nature</channel>
   <channel site="maxtvgo.mk" site_id="123" lang="mk" xmltv_id="ViasatExplore.se@SD">Viasat Explore</channel>
@@ -39,8 +37,6 @@
   <channel site="maxtvgo.mk" site_id="610327" lang="mk" xmltv_id="FoxLife.rs@SD">STAR LIFE HD</channel>
   <channel site="maxtvgo.mk" site_id="610328" lang="mk" xmltv_id="FoxMovies.rs@SD">STAR MOVIES HD</channel>
   <channel site="maxtvgo.mk" site_id="610330" lang="mk" xmltv_id="FoxCrime.rs@SD">STAR CRIME HD</channel>
-  <channel site="maxtvgo.mk" site_id="610332" lang="en" xmltv_id="NationalGeographic.gr@HD">National Geographic HD</channel>
-  <channel site="maxtvgo.mk" site_id="610333" lang="en" xmltv_id="NationalGeographicWild.gr@HD">National Geographic Wild</channel>
   <channel site="maxtvgo.mk" site_id="2145177" lang="mk" xmltv_id="ArenaSport5.rs@SD">Arena Sport 5 HD</channel>
   <channel site="maxtvgo.mk" site_id="3186681" lang="mk" xmltv_id="BalkanMusicTV.mk@SD">Balkan Music HD</channel>
   <channel site="maxtvgo.mk" site_id="3188274" lang="mk" xmltv_id="">Vavoom Test</channel>

@@ -27,7 +27,6 @@
   <channel site="tvmusor.hu" site_id="79" lang="hu" xmltv_id="CoolTV.hu@SD">Cool</channel>
   <channel site="tvmusor.hu" site_id="82" lang="hu" xmltv_id="">Animal Planet</channel>
   <channel site="tvmusor.hu" site_id="83" lang="hu" xmltv_id="DiscoveryChannel.hu@SD">Discovery Channel</channel>
-  <channel site="tvmusor.hu" site_id="85" lang="en" xmltv_id="DiscoveryScience.us@SD">Discovery Science</channel>
   <channel site="tvmusor.hu" site_id="89" lang="hu" xmltv_id="FilmCafe.hu@Hungary">Filmcafe</channel>
   <channel site="tvmusor.hu" site_id="90" lang="hu" xmltv_id="Sport1.hu@SD">Sport1</channel>
   <channel site="tvmusor.hu" site_id="91" lang="hu" xmltv_id="CartoonNetworkCEE.uk@Hungary">Cartoon Network</channel>
@@ -60,7 +59,6 @@
   <channel site="tvmusor.hu" site_id="244" lang="hu" xmltv_id="SuperTV2.hu@SD">SuperTV2</channel>
   <channel site="tvmusor.hu" site_id="251" lang="hu" xmltv_id="BBCEarth.uk@Romania">BBC Earth</channel>
   <channel site="tvmusor.hu" site_id="257" lang="hu" xmltv_id="ParamountNetwork.hu@SD">Paramount Network</channel>
-  <channel site="tvmusor.hu" site_id="285" lang="en" xmltv_id="FoodNetworkEMEA.us@SD">Food Network</channel>
   <channel site="tvmusor.hu" site_id="290" lang="hu" xmltv_id="M4Sport.hu@SD">M4 Sport</channel>
   <channel site="tvmusor.hu" site_id="301" lang="hu" xmltv_id="M5.hu@SD">M5</channel>
   <channel site="tvmusor.hu" site_id="304" lang="hu" xmltv_id="IzauraTV.hu@SD">Izaura TV</channel>

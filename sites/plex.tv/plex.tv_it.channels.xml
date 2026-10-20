@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="plex.tv" site_id="693c9d3258076a970420f58d" lang="en" xmltv_id="">IL Sole 24 Ore TV</channel>
-  <channel site="plex.tv" site_id="69011f15563fefa22b294aee" lang="en" xmltv_id="">INTER 24/7</channel>
   <channel site="plex.tv" site_id="6438eab12db15a520e46bb0e" lang="it" xmltv_id="">Adrenaline Movies</channel>
   <channel site="plex.tv" site_id="6438e55983766488c3bc9d49" lang="it" xmltv_id="">Alberto Sordi &amp; Co</channel>
   <channel site="plex.tv" site_id="69153c1538cb396cc8e5b40c" lang="it" xmltv_id="">Automoto</channel>

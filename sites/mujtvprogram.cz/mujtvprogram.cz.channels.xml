@@ -140,42 +140,6 @@
   <channel site="mujtvprogram.cz" site_id="151" lang="de" xmltv_id="DMAX.de@SD">DMAX</channel>
   <channel site="mujtvprogram.cz" site_id="354" lang="de" xmltv_id="KiKA.de@SD">KiKA</channel>
   <channel site="mujtvprogram.cz" site_id="216" lang="de" xmltv_id="ZDFneo.de@SD">ZDF NEO</channel>
-  <channel site="mujtvprogram.cz" site_id="132" lang="en" xmltv_id="">Music Box</channel>
-  <channel site="mujtvprogram.cz" site_id="367" lang="en" xmltv_id="360TuneBox.nl@SD">360TuneBox</channel>
-  <channel site="mujtvprogram.cz" site_id="217" lang="en" xmltv_id="AlJazeera.qa@English">Al Jazeera English</channel>
-  <channel site="mujtvprogram.cz" site_id="108" lang="en" xmltv_id="BabyTV.uk@UK">Baby TV</channel>
-  <channel site="mujtvprogram.cz" site_id="97" lang="en" xmltv_id="BBCNews.uk@Europe">BBC World News</channel>
-  <channel site="mujtvprogram.cz" site_id="284" lang="en" xmltv_id="BloombergTV.us@Europe">Bloomberg</channel>
-  <channel site="mujtvprogram.cz" site_id="146" lang="en" xmltv_id="BlueHustler.nl@SD">Blue Hustler</channel>
-  <channel site="mujtvprogram.cz" site_id="377" lang="en" xmltv_id="BrazzersTVEurope.us@SD">Brazzers TV Europe</channel>
-  <channel site="mujtvprogram.cz" site_id="73" lang="en" xmltv_id="CartoonitoCEE.uk@SD">Cartoonito</channel>
-  <channel site="mujtvprogram.cz" site_id="23" lang="en" xmltv_id="CNNInternational.us@MENA">CNN</channel>
-  <channel site="mujtvprogram.cz" site_id="235" lang="en" xmltv_id="DeluxeMusic.de@SD">Deluxe Music</channel>
-  <channel site="mujtvprogram.cz" site_id="355" lang="en" xmltv_id="DisneyJunior.cz@SD">Disney Junior</channel>
-  <channel site="mujtvprogram.cz" site_id="317" lang="en" xmltv_id="DocuBox.nl@SD">DocuBox</channel>
-  <channel site="mujtvprogram.cz" site_id="533" lang="en" xmltv_id="DorcelTV.nl@SD">Dorcel TV</channel>
-  <channel site="mujtvprogram.cz" site_id="761" lang="en" xmltv_id="DorcelXXX.nl@SD">Dorcel XXX</channel>
-  <channel site="mujtvprogram.cz" site_id="162" lang="en" xmltv_id="DW.de@English">Deutsche Welle</channel>
-  <channel site="mujtvprogram.cz" site_id="406" lang="en" xmltv_id="EnglishClubTV.uk@SD">English Club TV</channel>
-  <channel site="mujtvprogram.cz" site_id="300" lang="en" xmltv_id="EroX.nl@HD">Erox HD</channel>
-  <channel site="mujtvprogram.cz" site_id="328" lang="en" xmltv_id="EroXXX.nl@HD">EroXXX HD</channel>
-  <channel site="mujtvprogram.cz" site_id="117" lang="en" xmltv_id="EuronewsEnglish.fr@SD">Euronews</channel>
-  <channel site="mujtvprogram.cz" site_id="85" lang="en" xmltv_id="ExtremeSportsChannel.nl@SD">Extreme Sports Channel</channel>
-  <channel site="mujtvprogram.cz" site_id="119" lang="en" xmltv_id="FashionTVEurope.fr@SD">Fashion TV</channel>
-  <channel site="mujtvprogram.cz" site_id="404" lang="en" xmltv_id="FastFunBox.nl@SD">Fast&amp;FunBox HD</channel>
-  <channel site="mujtvprogram.cz" site_id="301" lang="en" xmltv_id="FightBox.nl@SD">FightBox HD</channel>
-  <channel site="mujtvprogram.cz" site_id="396" lang="en" xmltv_id="France24.fr@English">France 24 (EN)</channel>
-  <channel site="mujtvprogram.cz" site_id="376" lang="en" xmltv_id="GINXTV.uk@SD">Ginx eSports TV</channel>
-  <channel site="mujtvprogram.cz" site_id="72" lang="en" xmltv_id="HustlerTVEurope.nl@SD">Hustler</channel>
-  <channel site="mujtvprogram.cz" site_id="808" lang="en" xmltv_id="LoveNature.ca@SD">Love Nature HD</channel>
-  <channel site="mujtvprogram.cz" site_id="103" lang="en" xmltv_id="PlayboyTVEurope.us@SD">Playboy</channel>
-  <channel site="mujtvprogram.cz" site_id="74" lang="en" xmltv_id="PrivateTV.nl@SD">Private TV</channel>
-  <channel site="mujtvprogram.cz" site_id="137" lang="en" xmltv_id="RT.ru@SD">RT</channel>
-  <channel site="mujtvprogram.cz" site_id="138" lang="en" xmltv_id="SkyNewsInternational.uk@SD">Sky News</channel>
-  <channel site="mujtvprogram.cz" site_id="233" lang="en" xmltv_id="StingrayClassica.ca@SD">Stingray Classica</channel>
-  <channel site="mujtvprogram.cz" site_id="110" lang="en" xmltv_id="StingrayCMusic.ca@SD">Stingray CMusic</channel>
-  <channel site="mujtvprogram.cz" site_id="234" lang="en" xmltv_id="StingrayiConcerts.ca@SD">Stingray iConcerts</channel>
-  <channel site="mujtvprogram.cz" site_id="892" lang="en" xmltv_id="VixenTV.ca@SD">Vixen</channel>
   <channel site="mujtvprogram.cz" site_id="122" lang="fr" xmltv_id="France24.fr@French">France 24 (FR)</channel>
   <channel site="mujtvprogram.cz" site_id="67" lang="fr" xmltv_id="Mezzo.fr@SD">Mezzo</channel>
   <channel site="mujtvprogram.cz" site_id="383" lang="fr" xmltv_id="MezzoLive.fr@SD">Mezzo Live HD</channel>

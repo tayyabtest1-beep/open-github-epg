@@ -43,13 +43,9 @@
   <channel site="horizon.tv" site_id="10046" lang="sk" xmltv_id="">CS Film CS Horror HD</channel>
   <channel site="horizon.tv" site_id="10047" lang="cs" xmltv_id="CSHistory.cz@SD">CS History HD</channel>
   <channel site="horizon.tv" site_id="10048" lang="cs" xmltv_id="CSMystery.cz@SD">CS Mystery HD</channel>
-  <channel site="horizon.tv" site_id="10049" lang="en" xmltv_id="AnimalPlanetEurope.uk@SD">Animal Planet HD</channel>
   <channel site="horizon.tv" site_id="10051" lang="sk" xmltv_id="">Crime and Investigation</channel>
   <channel site="horizon.tv" site_id="10052" lang="sk" xmltv_id="DiscoveryChannelEurope.uk@CzechRepublic">Discovery HD</channel>
-  <channel site="horizon.tv" site_id="10053" lang="en" xmltv_id="DiscoveryScienceEurope.uk@CzechRepublic">Discovery Science HD</channel>
-  <channel site="horizon.tv" site_id="10054" lang="en" xmltv_id="DTX.cz@SD">DTX HD</channel>
   <channel site="horizon.tv" site_id="10055" lang="sk" xmltv_id="">ID HD</channel>
-  <channel site="horizon.tv" site_id="10056" lang="en" xmltv_id="FoodNetwork.hu@SD">Food Network HD</channel>
   <channel site="horizon.tv" site_id="10057" lang="cs" xmltv_id="History.cz@SD">History HD</channel>
   <channel site="horizon.tv" site_id="10058" lang="cs" xmltv_id="NationalGeographic.cz@SD">National Geographic HD</channel>
   <channel site="horizon.tv" site_id="10059" lang="cs" xmltv_id="NationalGeographicWild.cz@SD">Nat Geo Wild HD</channel>
@@ -57,7 +53,6 @@
   <channel site="horizon.tv" site_id="10061" lang="cs" xmltv_id="SpektrumHome.hu@SD">Spektrum home HD</channel>
   <channel site="horizon.tv" site_id="10062" lang="sk" xmltv_id="">TLC HD</channel>
   <channel site="horizon.tv" site_id="10063" lang="cs" xmltv_id="TVPaprika.cz@SD">TV Paprika HD</channel>
-  <channel site="horizon.tv" site_id="10064" lang="en" xmltv_id="TravelChannelEMEA.uk@Hungary">Travel Channel HD</channel>
   <channel site="horizon.tv" site_id="10065" lang="cs" xmltv_id="ViasatExplore.cz@SD">Viasat Explore HD</channel>
   <channel site="horizon.tv" site_id="10066" lang="cs" xmltv_id="ViasatHistory.cz@SD">Viasat History HD</channel>
   <channel site="horizon.tv" site_id="10067" lang="cs" xmltv_id="ViasatNature.cz@SD">Viasat Nature HD</channel>
@@ -70,7 +65,6 @@
   <channel site="horizon.tv" site_id="10075" lang="sk" xmltv_id="Sport2.cz@SD">Sport 2 HD</channel>
   <channel site="horizon.tv" site_id="10077" lang="sk" xmltv_id="automotorundsportchannel.de@SD">Auto Motor Sport</channel>
   <channel site="horizon.tv" site_id="10078" lang="sk" xmltv_id="">Golf Channel HD</channel>
-  <channel site="horizon.tv" site_id="10079" lang="en" xmltv_id="ExtremeSportsChannel.nl@SD">Extreme Sports</channel>
   <channel site="horizon.tv" site_id="10080" lang="cs" xmltv_id="NovaSport1.cz@SD">Nova Sport 1 HD</channel>
   <channel site="horizon.tv" site_id="10081" lang="cs" xmltv_id="NovaSport2.cz@SD">Nova Sport 2 HD</channel>
   <channel site="horizon.tv" site_id="10082" lang="cs" xmltv_id="CTSport.cz@SD">CT sport HD</channel>
@@ -83,28 +77,16 @@
   <channel site="horizon.tv" site_id="10090" lang="cs" xmltv_id="Nicktoons.cz@SD">NickToons</channel>
   <channel site="horizon.tv" site_id="10091" lang="cs" xmltv_id="CartoonNetworkCEE.uk@CzechRepublic">Cartoon Network HD</channel>
   <channel site="horizon.tv" site_id="10092" lang="sk" xmltv_id="">MTV Europe</channel>
-  <channel site="horizon.tv" site_id="10093" lang="en" xmltv_id="MTVLive.uk@SD">MTV Live HD</channel>
-  <channel site="horizon.tv" site_id="10094" lang="en" xmltv_id="ClubMTVEurope.uk@SD">Club MTV</channel>
-  <channel site="horizon.tv" site_id="10095" lang="en" xmltv_id="MTV90s.uk@SD">MTV 90s</channel>
-  <channel site="horizon.tv" site_id="10096" lang="en" xmltv_id="MTV00s.uk@SD">MTV 00s</channel>
-  <channel site="horizon.tv" site_id="10097" lang="en" xmltv_id="MTV80s.uk@SD">MTV 80s</channel>
   <channel site="horizon.tv" site_id="10098" lang="cs" xmltv_id="RetroMusicTV.cz@SD">Retro Music TV</channel>
   <channel site="horizon.tv" site_id="10101" lang="sk" xmltv_id="SlagerOriginal.cz@SD">Slager original HD</channel>
   <channel site="horizon.tv" site_id="10102" lang="sk" xmltv_id="SlagerMuzika.cz@SD">Slager muzika HD</channel>
   <channel site="horizon.tv" site_id="10103" lang="sk" xmltv_id="SlagerPremium.cz@SD">Slager Premium HD</channel>
-  <channel site="horizon.tv" site_id="10104" lang="en" xmltv_id="Mezzo.fr@SD">Mezzo</channel>
-  <channel site="horizon.tv" site_id="10105" lang="en" xmltv_id="FashionTVEurope.fr@SD">Fashion TV HD</channel>
   <channel site="horizon.tv" site_id="10106" lang="sk" xmltv_id="Relax.cz@SD">RELAX</channel>
-  <channel site="horizon.tv" site_id="10108" lang="en" xmltv_id="CNNInternational.us@MENA">CNN</channel>
-  <channel site="horizon.tv" site_id="10109" lang="en" xmltv_id="DW.de@English">Deutsche Welle HD</channel>
-  <channel site="horizon.tv" site_id="10110" lang="en" xmltv_id="CNBCEurope.uk@SD">CNBC Europe HD</channel>
-  <channel site="horizon.tv" site_id="10111" lang="en" xmltv_id="EuronewsEnglish.fr@SD">Euronews HD</channel>
   <channel site="horizon.tv" site_id="10112" lang="fr" xmltv_id="France24.fr@French">France 24</channel>
   <channel site="horizon.tv" site_id="10115" lang="de" xmltv_id="ORF1.at@SD">ORF 1</channel>
   <channel site="horizon.tv" site_id="10116" lang="de" xmltv_id="ORF2.at@SD">ORF 2</channel>
   <channel site="horizon.tv" site_id="10117" lang="de" xmltv_id="ORFIII.at@SD">ORF III</channel>
   <channel site="horizon.tv" site_id="10118" lang="pl" xmltv_id="TVPPolonia.pl@SD">TVP Polonia HD</channel>
-  <channel site="horizon.tv" site_id="10119" lang="en" xmltv_id="TRTWorld.tr@SD">TRT World HD</channel>
   <channel site="horizon.tv" site_id="10120" lang="cs" xmltv_id="HBOCentralEurope.hu@HD">HBO HD</channel>
   <channel site="horizon.tv" site_id="10121" lang="cs" xmltv_id="HBO2CentralEurope.hu@HD">HBO 2 HD</channel>
   <channel site="horizon.tv" site_id="10122" lang="cs" xmltv_id="HBO3CentralEurope.hu@HD">HBO 3 HD</channel>
@@ -113,12 +95,7 @@
   <channel site="horizon.tv" site_id="10125" lang="cs" xmltv_id="FilmBoxExtra.nl@CzechRepublic">FilmBox Extra HD</channel>
   <channel site="horizon.tv" site_id="10126" lang="cs" xmltv_id="FilmBoxPremium.nl@CzechRepublic">FilmBox Premium HD</channel>
   <channel site="horizon.tv" site_id="10127" lang="cs" xmltv_id="FilmBoxStars.nl@CzechRepublic">FilmBox Stars HD</channel>
-  <channel site="horizon.tv" site_id="10128" lang="en" xmltv_id="FightBox.nl@SD">Fightbox HD</channel>
-  <channel site="horizon.tv" site_id="10129" lang="en" xmltv_id="DocuBox.nl@SD">Docubox HD</channel>
-  <channel site="horizon.tv" site_id="10130" lang="en" xmltv_id="FastFunBox.nl@SD">Fast &amp; FunBox HD</channel>
-  <channel site="horizon.tv" site_id="10131" lang="en" xmltv_id="EroXXX.nl@HD">EroXXX HD</channel>
   <channel site="horizon.tv" site_id="10134" lang="sk" xmltv_id="LEOTV.cz@SD">Leo TV HD</channel>
-  <channel site="horizon.tv" site_id="10136" lang="en" xmltv_id="EXTASYTV.cz@SD">Extasy HD</channel>
   <channel site="horizon.tv" site_id="10137" lang="hu" xmltv_id="HirTV.hu@SD">HirTV</channel>
   <channel site="horizon.tv" site_id="10138" lang="hu" xmltv_id="M1.hu@SD">m1 HD</channel>
   <channel site="horizon.tv" site_id="10139" lang="hu" xmltv_id="M2.hu@SD">m2 HD</channel>
@@ -167,21 +144,13 @@
   <channel site="horizon.tv" site_id="10184" lang="sk" xmltv_id="TVRomana.sk@SD">TV Romana HD</channel>
   <channel site="horizon.tv" site_id="10185" lang="sk" xmltv_id="JOJSport.sk@SD">JOJ Sport HD</channel>
   <channel site="horizon.tv" site_id="10186" lang="sk" xmltv_id="Sport.sk@SD">RTVS Sport HD</channel>
-  <channel site="horizon.tv" site_id="10187" lang="en" xmltv_id="BabesTV.us@SD">BabesTV HD</channel>
-  <channel site="horizon.tv" site_id="10188" lang="en" xmltv_id="BrazzersTVEurope.us@SD">Brazzers TV HD</channel>
-  <channel site="horizon.tv" site_id="10189" lang="en" xmltv_id="RealityKingsTV.us@SD">Reality Kings HD</channel>
-  <channel site="horizon.tv" site_id="10190" lang="en" xmltv_id="FREEDOM.ua@SD">UATV</channel>
   <channel site="horizon.tv" site_id="10192" lang="sk" xmltv_id="EspresoTV.ua@SD">Espreso TV</channel>
   <channel site="horizon.tv" site_id="10193" lang="sk" xmltv_id="24.sk@SD">RTVS 24 HD</channel>
   <channel site="horizon.tv" site_id="10194" lang="sk" xmltv_id="CurrentTimeTV.cz@SD">Current Time HD</channel>
   <channel site="horizon.tv" site_id="10195" lang="sk" xmltv_id="TurboTV.sk@SD">TurboTV HD</channel>
   <channel site="horizon.tv" site_id="10196" lang="sk" xmltv_id="">Markiza Krimi HD</channel>
-  <channel site="horizon.tv" site_id="10197" lang="en" xmltv_id="SkyNewsInternational.uk@SD">Sky News</channel>
   <channel site="horizon.tv" site_id="10198" lang="sk" xmltv_id="JOJ24.sk@SD">JOJ 24 HD</channel>
   <channel site="horizon.tv" site_id="10199" lang="sk" xmltv_id="">Skvele TV HD</channel>
-  <channel site="horizon.tv" site_id="10200" lang="en" xmltv_id="360TuneBox.nl@SD">360 TuneBox HD</channel>
-  <channel site="horizon.tv" site_id="10201" lang="en" xmltv_id="FilmBoxArthouse.nl@SD">FilmBox Arthouse HD</channel>
-  <channel site="horizon.tv" site_id="10202" lang="en" xmltv_id="FashionBox.nl@SD">FashionBox HD</channel>
   <channel site="horizon.tv" site_id="10203" lang="sk" xmltv_id="">E! Entertainment HD</channel>
   <channel site="horizon.tv" site_id="10204" lang="sk" xmltv_id="">TV Doktor HD</channel>
 </channels>

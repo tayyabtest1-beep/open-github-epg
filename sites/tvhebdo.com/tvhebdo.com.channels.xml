@@ -57,7 +57,6 @@
   <channel site="tvhebdo.com" site_id="cour/ID" lang="fr" xmltv_id="InvestigationDiscovery.ca@SD">Investigation Discovery Canada</channel>
   <channel site="tvhebdo.com" site_id="cour/IDHD" lang="fr" xmltv_id="">Investigation Discovery Canada HD</channel>
   <channel site="tvhebdo.com" site_id="cpac/CPAC" lang="fr" xmltv_id="CPACFrench.ca@SD">CPAC</channel>
-  <channel site="tvhebdo.com" site_id="cpae/CPAE" lang="en" xmltv_id="CPACEnglish.ca@SD">CPAC English</channel>
   <channel site="tvhebdo.com" site_id="cpop/CPOP" lang="fr" xmltv_id="Cinepop.ca@SD">Ciné-pop</channel>
   <channel site="tvhebdo.com" site_id="cpop/POPHD" lang="fr" xmltv_id="">Ciné-pop HD</channel>
   <channel site="tvhebdo.com" site_id="crtn/CRTN" lang="fr" xmltv_id="">Cartoon Network HD</channel>

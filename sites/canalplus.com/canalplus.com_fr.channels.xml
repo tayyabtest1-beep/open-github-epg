@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="canalplus.com" site_id="#675" lang="en" xmltv_id="AlJazeera.qa@English">AL JAZEERA ENG</channel>
-  <channel site="canalplus.com" site_id="#589" lang="en" xmltv_id="BBCNews.uk@Europe">BBC NEWS</channel>
-  <channel site="canalplus.com" site_id="#654" lang="en" xmltv_id="NHKWorldJapan.jp@SD">NHK WORLD-JAPAN</channel>
   <channel site="canalplus.com" site_id="#30" lang="fr" xmltv_id="">CNN</channel>
   <channel site="canalplus.com" site_id="#45" lang="fr" xmltv_id="">CHAINE: 45</channel>
   <channel site="canalplus.com" site_id="#54" lang="fr" xmltv_id="">2M MONDE</channel>

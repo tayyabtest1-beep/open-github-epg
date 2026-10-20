@@ -13,26 +13,4 @@
   <channel site="abc.net.au" site_id="Victoria#ABC4KIDS" lang="en" xmltv_id="">ABC4KIDS</channel>
   <channel site="abc.net.au" site_id="Victoria#ABCHD" lang="en" xmltv_id="">ABCHD</channel>
   <channel site="abc.net.au" site_id="Victoria#ABCN" lang="en" xmltv_id="">ABCN</channel>
-  <channel site="abc.net.au" site_id="Victoria#ASPIR" lang="en" xmltv_id="">ASPIR</channel>
-  <channel site="abc.net.au" site_id="Victoria#GEM" lang="en" xmltv_id="">GEM</channel>
-  <channel site="abc.net.au" site_id="Victoria#GO" lang="en" xmltv_id="">GO</channel>
-  <channel site="abc.net.au" site_id="Victoria#NITV" lang="en" xmltv_id="">NITV</channel>
-  <channel site="abc.net.au" site_id="Victoria#ONE" lang="en" xmltv_id="">ONE</channel>
-  <channel site="abc.net.au" site_id="Victoria#Prime" lang="en" xmltv_id="">Prime</channel>
-  <channel site="abc.net.au" site_id="Victoria#RTV" lang="en" xmltv_id="">RTV</channel>
-  <channel site="abc.net.au" site_id="Victoria#SBS" lang="en" xmltv_id="">SBS</channel>
-  <channel site="abc.net.au" site_id="Victoria#SBS2" lang="en" xmltv_id="">SBS2</channel>
-  <channel site="abc.net.au" site_id="Victoria#SBS3" lang="en" xmltv_id="">SBS3</channel>
-  <channel site="abc.net.au" site_id="Victoria#SBSHD" lang="en" xmltv_id="">SBSHD</channel>
-  <channel site="abc.net.au" site_id="Victoria#SBSWW" lang="en" xmltv_id="">SBSWW</channel>
-  <channel site="abc.net.au" site_id="Victoria#SCA9" lang="en" xmltv_id="">SCA9</channel>
-  <channel site="abc.net.au" site_id="Victoria#SCHD" lang="en" xmltv_id="">SCHD</channel>
-  <channel site="abc.net.au" site_id="Victoria#SHAKE" lang="en" xmltv_id="">SHAKE</channel>
-  <channel site="abc.net.au" site_id="Victoria#SNR" lang="en" xmltv_id="">SNR</channel>
-  <channel site="abc.net.au" site_id="Victoria#TVSN" lang="en" xmltv_id="">TVSN</channel>
-  <channel site="abc.net.au" site_id="Victoria#VICHD" lang="en" xmltv_id="">VICHD</channel>
-  <channel site="abc.net.au" site_id="Victoria#WIN" lang="en" xmltv_id="">WIN</channel>
-  <channel site="abc.net.au" site_id="Victoria#WINHD" lang="en" xmltv_id="">WINHD</channel>
-  <channel site="abc.net.au" site_id="Victoria#WinSA" lang="en" xmltv_id="">WinSA</channel>
-  <channel site="abc.net.au" site_id="Victoria#YOUTV" lang="en" xmltv_id="">YOUTV</channel>
 </channels>

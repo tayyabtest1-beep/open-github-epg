@@ -2,7 +2,6 @@
 <channels>
   <channel site="tvgids.nl" site_id="3sat" lang="nl" xmltv_id="3sat.de@SD">3Sat</channel>
   <channel site="tvgids.nl" site_id="24kitchen" lang="nl" xmltv_id="24Kitchen.us@Netherlands">24Kitchen</channel>
-  <channel site="tvgids.nl" site_id="aljazeera" lang="en" xmltv_id="AlJazeera.qa@English">Al Jazeera Engels</channel>
   <channel site="tvgids.nl" site_id="animalplanet" lang="nl" xmltv_id="AnimalPlanet.nl@SD">Animal Planet</channel>
   <channel site="tvgids.nl" site_id="ard" lang="nl" xmltv_id="">ARD</channel>
   <channel site="tvgids.nl" site_id="arte" lang="nl" xmltv_id="arte.fr@SD">ARTE</channel>
@@ -20,7 +19,6 @@
   <channel site="tvgids.nl" site_id="cartoonnetwork" lang="nl" xmltv_id="CartoonNetworkWesternEurope.uk@Netherlands">Cartoon Network</channel>
   <channel site="tvgids.nl" site_id="cbsreality" lang="nl" xmltv_id="CBSReality.nl@SD">CBS Reality</channel>
   <channel site="tvgids.nl" site_id="cnbc" lang="nl" xmltv_id="CNBCEurope.uk@SD">CNBC</channel>
-  <channel site="tvgids.nl" site_id="cnn" lang="en" xmltv_id="CNNInternational.us@MENA">CNN</channel>
   <channel site="tvgids.nl" site_id="comedycentral" lang="nl" xmltv_id="ComedyCentral.nl@SD">Comedy Central</channel>
   <channel site="tvgids.nl" site_id="crimeinvestigation" lang="nl" xmltv_id="CrimePlusInvestigationBenelux.uk@SD">Crime + Investigation</channel>
   <channel site="tvgids.nl" site_id="discovery" lang="nl" xmltv_id="DiscoveryChannel.nl@SD">Discovery</channel>
@@ -36,7 +34,6 @@
   <channel site="tvgids.nl" site_id="euronews" lang="nl" xmltv_id="EuronewsEnglish.fr@HD">Euronews</channel>
   <channel site="tvgids.nl" site_id="eurosport1" lang="nl" xmltv_id="Eurosport1.fr@Netherlands">Eurosport 1</channel>
   <channel site="tvgids.nl" site_id="eurosport2" lang="nl" xmltv_id="Eurosport2.fr@Netherlands">Eurosport 2</channel>
-  <channel site="tvgids.nl" site_id="extsports" lang="en" xmltv_id="ExtremeSportsChannel.nl@SD">Extreme Sports Channel</channel>
   <channel site="tvgids.nl" site_id="film1action" lang="nl" xmltv_id="Film1Action.nl@SD">Film1 Action</channel>
   <channel site="tvgids.nl" site_id="film1drama" lang="nl" xmltv_id="Film1Drama.nl@SD">Film1 Drama</channel>
   <channel site="tvgids.nl" site_id="film1family" lang="nl" xmltv_id="Film1Family.nl@SD">Film1 Family</channel>

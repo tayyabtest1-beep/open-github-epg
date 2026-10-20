@@ -59,8 +59,6 @@
   <channel site="wavve.com" site_id="K05" lang="ko" xmltv_id="KBSLife.kr@SD">KBS Life</channel>
   <channel site="wavve.com" site_id="K06" lang="ko" xmltv_id="KBSDrama.kr@SD">KBS DRAMA</channel>
   <channel site="wavve.com" site_id="K09" lang="ko" xmltv_id="KBSStory.kr@SD">KBS Story</channel>
-  <channel site="wavve.com" site_id="K12" lang="en" xmltv_id="CCTV4Asia.cn@SD">CCTV4</channel>
-  <channel site="wavve.com" site_id="K25" lang="en" xmltv_id="CGTN.cn@SD">CGTN</channel>
   <channel site="wavve.com" site_id="M01" lang="ko" xmltv_id="MBCTV.kr@SD">MBC</channel>
   <channel site="wavve.com" site_id="M02" lang="ko" xmltv_id="MBCDrama.kr@SD">MBC Drama</channel>
   <channel site="wavve.com" site_id="M03" lang="ko" xmltv_id="MBCEvery1.kr@SD">MBC Every1</channel>

@@ -48,8 +48,6 @@
   <channel site="programacion-tv.elpais.com" site_id="196" lang="es" xmltv_id="">Bloomberg</channel>
   <channel site="programacion-tv.elpais.com" site_id="200" lang="es" xmltv_id="Nickelodeon.es@SD">Nickelodeon</channel>
   <channel site="programacion-tv.elpais.com" site_id="202" lang="es" xmltv_id="">FOX</channel>
-  <channel site="programacion-tv.elpais.com" site_id="203" lang="en" xmltv_id="CNNInternational.us@MENA">CNN Internacional</channel>
-  <channel site="programacion-tv.elpais.com" site_id="204" lang="en" xmltv_id="CNBCEurope.uk@SD">CNBC</channel>
   <channel site="programacion-tv.elpais.com" site_id="206" lang="es" xmltv_id="DW.de@Espanol">Deutsche Welle</channel>
   <channel site="programacion-tv.elpais.com" site_id="208" lang="es" xmltv_id="BBCNews.uk@Europe">BBC News</channel>
   <channel site="programacion-tv.elpais.com" site_id="209" lang="es" xmltv_id="TV5MondeEurope.fr@SD">TV5 Monde</channel>
@@ -92,7 +90,6 @@
   <channel site="programacion-tv.elpais.com" site_id="522" lang="es" xmltv_id="AragonTV.es@SD">Aragón TV</channel>
   <channel site="programacion-tv.elpais.com" site_id="539" lang="es" xmltv_id="AlJazeera.qa@English">Al Jazeera English</channel>
   <channel site="programacion-tv.elpais.com" site_id="541" lang="es" xmltv_id="SX3.es@SD">Super 3</channel>
-  <channel site="programacion-tv.elpais.com" site_id="550" lang="en" xmltv_id="ExtremeSportsChannel.nl@SD">Extreme Sports</channel>
   <channel site="programacion-tv.elpais.com" site_id="551" lang="es" xmltv_id="La7.es@SD">7 Región de Murcia</channel>
   <channel site="programacion-tv.elpais.com" site_id="566" lang="es" xmltv_id="CaracolInternacional.co@SD">Caracol TV</channel>
   <channel site="programacion-tv.elpais.com" site_id="567" lang="es" xmltv_id="CubavisionInternacional.cu@SD">Cubavisión Internacional</channel>
@@ -158,7 +155,6 @@
   <channel site="programacion-tv.elpais.com" site_id="789" lang="es" xmltv_id="">AZ Corazón</channel>
   <channel site="programacion-tv.elpais.com" site_id="790" lang="es" xmltv_id="">El Trece Internacional</channel>
   <channel site="programacion-tv.elpais.com" site_id="791" lang="es" xmltv_id="">CNC News</channel>
-  <channel site="programacion-tv.elpais.com" site_id="792" lang="en" xmltv_id="i24NEWSEnglishWorld.il@SD">i24 News</channel>
   <channel site="programacion-tv.elpais.com" site_id="795" lang="es" xmltv_id="ETB3.es@SD">ETB 3</channel>
   <channel site="programacion-tv.elpais.com" site_id="796" lang="es" xmltv_id="">TeleRibera</channel>
   <channel site="programacion-tv.elpais.com" site_id="798" lang="es" xmltv_id="">Movistar F1</channel>

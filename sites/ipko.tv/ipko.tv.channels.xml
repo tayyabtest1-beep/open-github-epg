@@ -9,10 +9,8 @@
   <channel site="ipko.tv" site_id="a2" lang="tr" xmltv_id="A2TV.tr@SD">A2</channel>
   <channel site="ipko.tv" site_id="a2-cnn" lang="sq" xmltv_id="A2CNN.al@SD">A2 CNN</channel>
   <channel site="ipko.tv" site_id="a-haber" lang="tr" xmltv_id="AHaber.tr@SD">A Haber</channel>
-  <channel site="ipko.tv" site_id="a-news" lang="en" xmltv_id="ANews.tr@SD">A News</channel>
   <channel site="ipko.tv" site_id="a-para" lang="tr" xmltv_id="APara.tr@SD">A Para</channel>
   <channel site="ipko.tv" site_id="a-spor" lang="tr" xmltv_id="ASpor.tr@SD">A Spor</channel>
-  <channel site="ipko.tv" site_id="al-jazeera" lang="en" xmltv_id="AlJazeera.qa@English">Al Jazeera</channel>
   <channel site="ipko.tv" site_id="al-jazeera-balkans" lang="bs" xmltv_id="AlJazeeraBalkans.ba@SD">Al Jazeera Balkans</channel>
   <channel site="ipko.tv" site_id="alb-uk-tv" lang="sq" xmltv_id="">ALB UK TV</channel>
   <channel site="ipko.tv" site_id="alsat-m" lang="mk" xmltv_id="">Alsat M</channel>
@@ -173,7 +171,6 @@
   <channel site="ipko.tv" site_id="trt-muzik" lang="tr" xmltv_id="TRTMuzik.tr@SD">TRT Müzik</channel>
   <channel site="ipko.tv" site_id="trt-spor" lang="tr" xmltv_id="TRTSpor.tr@SD">TRT Spor</channel>
   <channel site="ipko.tv" site_id="trt-turk" lang="tr" xmltv_id="TRTTurk.tr@SD">TRT Türk</channel>
-  <channel site="ipko.tv" site_id="trt-world" lang="en" xmltv_id="TRTWorld.tr@SD">TRT World</channel>
   <channel site="ipko.tv" site_id="turkish-stories" lang="sq" xmltv_id="">Tring Turkish Stories</channel>
   <channel site="ipko.tv" site_id="tv8-int" lang="tr" xmltv_id="TV8int.tr@SD">TV8 Int&apos;l</channel>
   <channel site="ipko.tv" site_id="tv-4" lang="tr" xmltv_id="TV4.tr@SD">TV 4</channel>

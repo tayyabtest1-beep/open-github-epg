@@ -14,3 +14,9 @@
 
 # macOS
 .DS_Store
+
+chunks/
+global-epg.*
+*.zip
+*.gz
+merge.js

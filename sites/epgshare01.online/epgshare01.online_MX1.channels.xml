@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="epgshare01.online" site_id="MX1#Azteca.(XHOR).mx" lang="en" xmltv_id="">Azteca (XHOR)</channel>
   <channel site="epgshare01.online" site_id="MX1#Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" lang="es" xmltv_id="">Canal 2 de México (Canal Las Estrellas - XEW)</channel>
-  <channel site="epgshare01.online" site_id="MX1#Canal.5.(XHPNH).mx" lang="en" xmltv_id="">Canal 5 (XHPNH)</channel>
   <channel site="epgshare01.online" site_id="MX1#Canal.5.de.México.(XHGC).mx" lang="es" xmltv_id="">Canal 5 de México (XHGC)</channel>
   <channel site="epgshare01.online" site_id="MX1#Canal.9.de.México.(XEQ-TDT).mx" lang="es" xmltv_id="">Canal 9 de México (XEQ-TDT)</channel>
   <channel site="epgshare01.online" site_id="MX1#Canal.11.de.México.mx" lang="es" xmltv_id="">Canal 11 de México</channel>
   <channel site="epgshare01.online" site_id="MX1#Canal.14.de.México.mx" lang="es" xmltv_id="">Canal 14 de México</channel>
   <channel site="epgshare01.online" site_id="MX1#Canal.22.de.México.mx" lang="es" xmltv_id="">Canal 22 de México</channel>
-  <channel site="epgshare01.online" site_id="MX1#Canal.22.Internacional.mx" lang="en" xmltv_id="">Canal 22 Internacional</channel>
   <channel site="epgshare01.online" site_id="MX1#Canal.¡HOLA!.TV.mx" lang="es" xmltv_id="">Canal ¡HOLA! TV</channel>
   <channel site="epgshare01.online" site_id="MX1#Canal.A&amp;E.(México).mx" lang="es" xmltv_id="">Canal A&amp;amp;E (México)</channel>
   <channel site="epgshare01.online" site_id="MX1#Canal.a+.mx" lang="es" xmltv_id="">Canal a+</channel>
@@ -148,6 +145,4 @@
   <channel site="epgshare01.online" site_id="MX1#FOX.Sports.Premium.MEXICO.mx" lang="es" xmltv_id="">FOX Sports Premium MEXICO</channel>
   <channel site="epgshare01.online" site_id="MX1#Sky.Sports.16.mx" lang="es" xmltv_id="">Sky Sports 16</channel>
   <channel site="epgshare01.online" site_id="MX1#Sky.Sports.24.mx" lang="es" xmltv_id="">Sky Sports 24</channel>
-  <channel site="epgshare01.online" site_id="MX1#Televisa.(XERV).mx" lang="en" xmltv_id="">Televisa (XERV)</channel>
-  <channel site="epgshare01.online" site_id="MX1#Televisa.(XHAB).mx" lang="en" xmltv_id="">Televisa (XHAB)</channel>
 </channels>

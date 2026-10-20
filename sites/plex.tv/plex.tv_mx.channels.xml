@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="plex.tv" site_id="6977ff0c5d94f0bdc7bdd994" lang="en" xmltv_id="">Historias de Corazón</channel>
-  <channel site="plex.tv" site_id="69a524507c245b3390e8a4dc" lang="en" xmltv_id="">Nature Moments</channel>
-  <channel site="plex.tv" site_id="68c87137679609f139e6cbe0" lang="en" xmltv_id="RevryLatinX.us@SD">Revry Latinx</channel>
   <channel site="plex.tv" site_id="6449369eb3ff17382cae5811" lang="es" xmltv_id="">Autopista al Cielo</channel>
   <channel site="plex.tv" site_id="63f0c8c6a9c2ebc9d406dda0" lang="es" xmltv_id="">Aym Sports TV</channel>
   <channel site="plex.tv" site_id="64693c3f4ead8fb86120d8db" lang="es" xmltv_id="">AZTECA UNO -1 hora</channel>

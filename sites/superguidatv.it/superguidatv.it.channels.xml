@@ -44,8 +44,6 @@
   <channel site="superguidatv.it" site_id="fox-1/sky-intrattenimento/5" lang="it" xmltv_id="Fox.it@Plus1">Fox +1</channel>
   <channel site="superguidatv.it" site_id="fox-business/sky-news/121" lang="it" xmltv_id="FoxBusinessNetwork.us@SD">Fox Business</channel>
   <channel site="superguidatv.it" site_id="fox-hd/sky-intrattenimento/4" lang="it" xmltv_id="Fox.it@SD">Fox HD</channel>
-  <channel site="superguidatv.it" site_id="fox-news/sky-news/119" lang="en" xmltv_id="FoxNewsChannel.us@SD">Fox News</channel>
-  <channel site="superguidatv.it" site_id="france-24-english-/sky-news/124" lang="en" xmltv_id="France24.fr@English">France 24 English</channel>
   <channel site="superguidatv.it" site_id="france-24/252" lang="it" xmltv_id="">France 24</channel>
   <channel site="superguidatv.it" site_id="france-24/sky-news/252" lang="fr" xmltv_id="France24.fr@French">France 24</channel>
   <channel site="superguidatv.it" site_id="frisbee/246" lang="it" xmltv_id="Frisbee.it@SD">Frisbee</channel>
@@ -58,7 +56,6 @@
   <channel site="superguidatv.it" site_id="history-1/sky-doc-e-lifestyle/96" lang="it" xmltv_id="History.it@Plus1">History 1</channel>
   <channel site="superguidatv.it" site_id="history-hd/sky-doc-e-lifestyle/95" lang="it" xmltv_id="History.it@SD">History HD</channel>
   <channel site="superguidatv.it" site_id="horse-tv-hd/sky-sport/51" lang="it" xmltv_id="">Horse TV HD</channel>
-  <channel site="superguidatv.it" site_id="i24news/sky-news/126" lang="en" xmltv_id="i24NEWSEnglishWorld.il@SD">I24news</channel>
   <channel site="superguidatv.it" site_id="inter-tv-hd/sky-sport/57" lang="it" xmltv_id="InterTV.it@SD">Inter TV HD</channel>
   <channel site="superguidatv.it" site_id="iris/192" lang="it" xmltv_id="Iris.it@SD">Iris</channel>
   <channel site="superguidatv.it" site_id="italia-1/188" lang="it" xmltv_id="Italia1.it@SD">Italia 1</channel>

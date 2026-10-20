@@ -17,32 +17,6 @@
   <channel site="tv24.se" site_id="rtlzwei" lang="de" xmltv_id="RTLZwei.de@SD">RTLZWEI</channel>
   <channel site="tv24.se" site_id="vox" lang="de" xmltv_id="VOX.at@SD">VOX</channel>
   <channel site="tv24.se" site_id="zdf" lang="de" xmltv_id="ZDF.de@SD">ZDF</channel>
-  <channel site="tv24.se" site_id="cgtn" lang="en" xmltv_id="">CGTN</channel>
-  <channel site="tv24.se" site_id="the-adult-channel" lang="en" xmltv_id="AdultChannel.uk@SD">The Adult Channel</channel>
-  <channel site="tv24.se" site_id="al-jazeera-arabic" lang="en" xmltv_id="AlJazeera.qa@Arabic">Al Jazeera Arabic</channel>
-  <channel site="tv24.se" site_id="al-jazeera" lang="en" xmltv_id="AlJazeera.qa@English">Al Jazeera</channel>
-  <channel site="tv24.se" site_id="bbc-earth" lang="en" xmltv_id="BBCEarth.uk@Nordic">BBC Earth</channel>
-  <channel site="tv24.se" site_id="cnbc" lang="en" xmltv_id="CNBCEurope.uk@SD">CNBC</channel>
-  <channel site="tv24.se" site_id="cnn-international" lang="en" xmltv_id="CNNInternational.us@MENA">CNN International</channel>
-  <channel site="tv24.se" site_id="discovery-science-1" lang="en" xmltv_id="DiscoveryScienceEurope.uk@Sweden">Discovery Science</channel>
-  <channel site="tv24.se" site_id="extreme-sports-channel" lang="en" xmltv_id="ExtremeSportsChannel.nl@SD">Extreme Sports Channel</channel>
-  <channel site="tv24.se" site_id="ftv-hd" lang="en" xmltv_id="FashionTVEurope.fr@SD">FTV HD</channel>
-  <channel site="tv24.se" site_id="fight-sports" lang="en" xmltv_id="FightSports.us@SD">Fight Sports</channel>
-  <channel site="tv24.se" site_id="food-network" lang="en" xmltv_id="FoodNetworkEMEA.us@SD">Food Network</channel>
-  <channel site="tv24.se" site_id="ginx-esports-tv" lang="en" xmltv_id="GINXTV.uk@SD">GINX eSports TV</channel>
-  <channel site="tv24.se" site_id="god" lang="en" xmltv_id="GODTV.uk@SD">God</channel>
-  <channel site="tv24.se" site_id="horse-country" lang="en" xmltv_id="HorseCountryTV.uk@SD">Horse &amp; Country</channel>
-  <channel site="tv24.se" site_id="magnolia-network-hd" lang="en" xmltv_id="MagnoliaNetwork.us@East">Magnolia Network HD</channel>
-  <channel site="tv24.se" site_id="mezzo" lang="en" xmltv_id="Mezzo.fr@SD">Mezzo</channel>
-  <channel site="tv24.se" site_id="mtv-00s-europe" lang="en" xmltv_id="MTV00s.uk@SD">MTV 00s Europe</channel>
-  <channel site="tv24.se" site_id="mtv-80s" lang="en" xmltv_id="MTV80s.uk@SD">MTV 80s</channel>
-  <channel site="tv24.se" site_id="mtv-90s" lang="en" xmltv_id="MTV90s.uk@SD">MTV 90s</channel>
-  <channel site="tv24.se" site_id="nautical-channel" lang="en" xmltv_id="NauticalChannel.it@SD">Nautical Channel</channel>
-  <channel site="tv24.se" site_id="outtv" lang="en" xmltv_id="OUTtv.nl@SD">OUTtv</channel>
-  <channel site="tv24.se" site_id="sky-history-2-hd" lang="en" xmltv_id="SkyHistory2.uk@SD">Sky History 2 HD</channel>
-  <channel site="tv24.se" site_id="sky-news" lang="en" xmltv_id="SkyNews.uk@SD">Sky News</channel>
-  <channel site="tv24.se" site_id="djazz-hd" lang="en" xmltv_id="StingrayDJAZZ.ca@SD">Djazz HD</channel>
-  <channel site="tv24.se" site_id="travel-channel" lang="en" xmltv_id="TravelChannelEMEA.uk@SD">Travel Channel</channel>
   <channel site="tv24.se" site_id="canal-24h" lang="es" xmltv_id="24Horas.es@SD">Canal 24H</channel>
   <channel site="tv24.se" site_id="canal-de-las-estrellas" lang="es" xmltv_id="LasEstrellasEuropa.mx@SD">Las Estrellas</channel>
   <channel site="tv24.se" site_id="tve-internacional" lang="es" xmltv_id="TVEInternacionalEuropeAsia.es@SD">TVE Internacional</channel>

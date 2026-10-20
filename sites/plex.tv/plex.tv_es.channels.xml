@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="plex.tv" site_id="67828ebf37cd7764c53489b3" lang="en" xmltv_id="">DFB Play TV</channel>
   <channel site="plex.tv" site_id="682510ec0f741b077c360512" lang="es" xmltv_id="Actualidad360.es@SD">Actualidad 360</channel>
   <channel site="plex.tv" site_id="656236cc5dbccec83a87b647" lang="es" xmltv_id="Andromeda.us@Spain">Andromeda</channel>
   <channel site="plex.tv" site_id="656fbd05cb7e8e6a9bc3f372" lang="es" xmltv_id="ArchivosForenses.us@Spain">Archivos Forenses</channel>

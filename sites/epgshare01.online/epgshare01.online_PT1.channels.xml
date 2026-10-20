@@ -106,7 +106,6 @@
   <channel site="epgshare01.online" site_id="PT1#RTP.3.HD.pt" lang="pt" xmltv_id="">RTP 3 HD</channel>
   <channel site="epgshare01.online" site_id="PT1#RTP.Açores.pt" lang="pt" xmltv_id="">RTP Açores</channel>
   <channel site="epgshare01.online" site_id="PT1#RTP.África.pt" lang="pt" xmltv_id="">RTP África</channel>
-  <channel site="epgshare01.online" site_id="PT1#RTP.Internacional.pt" lang="en" xmltv_id="">RTP Internacional</channel>
   <channel site="epgshare01.online" site_id="PT1#RTP.Madeira.pt" lang="pt" xmltv_id="">RTP Madeira</channel>
   <channel site="epgshare01.online" site_id="PT1#RTP.Memória.pt" lang="pt" xmltv_id="">RTP Memória</channel>
   <channel site="epgshare01.online" site_id="PT1#RTR.Planeta.pt" lang="pt" xmltv_id="">RTR Planeta</channel>
@@ -115,7 +114,6 @@
   <channel site="epgshare01.online" site_id="PT1#SET.Asia.pt" lang="pt" xmltv_id="">SET Asia</channel>
   <channel site="epgshare01.online" site_id="PT1#SIC.Caras.HD.pt" lang="pt" xmltv_id="">SIC Caras HD</channel>
   <channel site="epgshare01.online" site_id="PT1#SIC.HD.pt" lang="pt" xmltv_id="">SIC HD</channel>
-  <channel site="epgshare01.online" site_id="PT1#SIC.Internacional.pt" lang="en" xmltv_id="">SIC Internacional</channel>
   <channel site="epgshare01.online" site_id="PT1#SIC.K.HD.pt" lang="pt" xmltv_id="">SIC K HD</channel>
   <channel site="epgshare01.online" site_id="PT1#SIC.Mulher.HD.pt" lang="pt" xmltv_id="">SIC Mulher HD</channel>
   <channel site="epgshare01.online" site_id="PT1#SIC.Notícias.HD.pt" lang="pt" xmltv_id="">SIC Notícias HD</channel>
@@ -159,7 +157,6 @@
   <channel site="epgshare01.online" site_id="PT1#tvi.africa.pt" lang="pt" xmltv_id="">tvi africa</channel>
   <channel site="epgshare01.online" site_id="PT1#tvi.ficcao.pt" lang="pt" xmltv_id="">tvi ficcao</channel>
   <channel site="epgshare01.online" site_id="PT1#TVI.HD.pt" lang="pt" xmltv_id="">TVI HD</channel>
-  <channel site="epgshare01.online" site_id="PT1#TVI.Internacional.pt" lang="en" xmltv_id="">TVI Internacional</channel>
   <channel site="epgshare01.online" site_id="PT1#tvi.internacional.pt" lang="pt" xmltv_id="">tvi internacional</channel>
   <channel site="epgshare01.online" site_id="PT1#TVI.Reality.HD.pt" lang="pt" xmltv_id="">TVI Reality HD</channel>
   <channel site="epgshare01.online" site_id="PT1#tvi.reality.pt" lang="pt" xmltv_id="">tvi reality</channel>

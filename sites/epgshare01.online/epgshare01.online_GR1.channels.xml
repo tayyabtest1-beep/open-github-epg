@@ -18,9 +18,6 @@
   <channel site="epgshare01.online" site_id="GR1#ALPHA.HD.DTT.gr" lang="el" xmltv_id="">ALPHA HD DTT</channel>
   <channel site="epgshare01.online" site_id="GR1#ALPHA.HD.gr" lang="el" xmltv_id="">ALPHA HD</channel>
   <channel site="epgshare01.online" site_id="GR1#ALPHA.SD.DTT.gr" lang="el" xmltv_id="">ALPHA SD DTT</channel>
-  <channel site="epgshare01.online" site_id="GR1#Alpha.TV.AUSTRALIA.gr" lang="en" xmltv_id="">Alpha TV AUSTRALIA</channel>
-  <channel site="epgshare01.online" site_id="GR1#Alpha.TV.MIDDLE-EAST.gr" lang="en" xmltv_id="">Alpha TV MIDDLE-EAST</channel>
-  <channel site="epgshare01.online" site_id="GR1#Alpha.TV.USA.gr" lang="en" xmltv_id="">Alpha TV USA</channel>
   <channel site="epgshare01.online" site_id="GR1#Animal.Planet.gr" lang="el" xmltv_id="">Animal Planet</channel>
   <channel site="epgshare01.online" site_id="GR1#ANT1.gr" lang="el" xmltv_id="">ANT1</channel>
   <channel site="epgshare01.online" site_id="GR1#Antenna.Comedy.gr" lang="el" xmltv_id="">Antenna Comedy</channel>

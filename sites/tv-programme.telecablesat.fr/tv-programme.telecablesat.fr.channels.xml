@@ -10,10 +10,6 @@
   <channel site="tv-programme.telecablesat.fr" site_id="12" lang="fr" xmltv_id="Animaux.fr@SD">Animaux</channel>
   <channel site="tv-programme.telecablesat.fr" site_id="13" lang="de" xmltv_id="DasErste.de@SD">Das Erste</channel>
   <channel site="tv-programme.telecablesat.fr" site_id="15" lang="fr" xmltv_id="Automotolachaine.fr@SD">Automoto</channel>
-  <channel site="tv-programme.telecablesat.fr" site_id="16" lang="en" xmltv_id="BBCOne.uk@London">BBC 1</channel>
-  <channel site="tv-programme.telecablesat.fr" site_id="17" lang="en" xmltv_id="BBCTwo.uk@England">BBC 2</channel>
-  <channel site="tv-programme.telecablesat.fr" site_id="18" lang="en" xmltv_id="BBCEntertainment.uk@SD">BBC Entertainment</channel>
-  <channel site="tv-programme.telecablesat.fr" site_id="19" lang="en" xmltv_id="BBCNews.uk@Europe">BBC World News</channel>
   <channel site="tv-programme.telecablesat.fr" site_id="23" lang="nl" xmltv_id="">één</channel>
   <channel site="tv-programme.telecablesat.fr" site_id="24" lang="nl" xmltv_id="">Canvas</channel>
   <channel site="tv-programme.telecablesat.fr" site_id="29" lang="fr" xmltv_id="Be1.be@SD">BE 1</channel>
@@ -26,11 +22,9 @@
   <channel site="tv-programme.telecablesat.fr" site_id="47" lang="fr" xmltv_id="France5.fr@SD">France 5</channel>
   <channel site="tv-programme.telecablesat.fr" site_id="49" lang="fr" xmltv_id="SerieClub.fr@SD">serieclub</channel>
   <channel site="tv-programme.telecablesat.fr" site_id="50" lang="fr" xmltv_id="">RTL Club</channel>
-  <channel site="tv-programme.telecablesat.fr" site_id="53" lang="en" xmltv_id="CNNInternational.us@MENA">CNN</channel>
   <channel site="tv-programme.telecablesat.fr" site_id="54" lang="fr" xmltv_id="ComediePlus.fr@SD">Comédie+</channel>
   <channel site="tv-programme.telecablesat.fr" site_id="57" lang="fr" xmltv_id="DemainTV.fr@SD">Demain TV</channel>
   <channel site="tv-programme.telecablesat.fr" site_id="58" lang="fr" xmltv_id="DisneyChannel.fr@SD">Disney Channel</channel>
-  <channel site="tv-programme.telecablesat.fr" site_id="61" lang="en" xmltv_id="DW.de@English">DW (English)</channel>
   <channel site="tv-programme.telecablesat.fr" site_id="63" lang="fr" xmltv_id="ScienceVieTV.fr@SD">Science &amp; Vie TV</channel>
   <channel site="tv-programme.telecablesat.fr" site_id="64" lang="fr" xmltv_id="Equidia.fr@SD">Equidia</channel>
   <channel site="tv-programme.telecablesat.fr" site_id="76" lang="fr" xmltv_id="Eurosport1.fr@France">Eurosport 1</channel>

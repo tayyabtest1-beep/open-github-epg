@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="tv.lv" site_id="3" lang="ru" xmltv_id="TV3Plus.lv@SD">3+</channel>
   <channel site="tv.lv" site_id="3sat" lang="lv" xmltv_id="3sat.de@SD">3SAT</channel>
   <channel site="tv.lv" site_id="8tv" lang="lv" xmltv_id="8TV.lv@SD">8TV</channel>
   <channel site="tv.lv" site_id="360" lang="lv" xmltv_id="360TV.lv@SD">360</channel>
@@ -37,7 +36,6 @@
   <channel site="tv.lv" site_id="duo-3-blt" lang="lv" xmltv_id="">Duo 3 BLT</channel>
   <channel site="tv.lv" site_id="duo-6-lv" lang="lv" xmltv_id="Duo6.lv@SD">Duo 6 LV</channel>
   <channel site="tv.lv" site_id="e-entertainment" lang="lv" xmltv_id="">E! Entertainment</channel>
-  <channel site="tv.lv" site_id="epic-drama-cee" lang="en" xmltv_id="EpicDrama.uk@Sweden">Epic Drama CEE</channel>
   <channel site="tv.lv" site_id="esportstv" lang="lv" xmltv_id="">eSportsTV</channel>
   <channel site="tv.lv" site_id="euronews" lang="lv" xmltv_id="">Euronews</channel>
   <channel site="tv.lv" site_id="eurosport-1" lang="lv" xmltv_id="Eurosport1.fr@France">Eurosport 1</channel>
@@ -124,14 +122,11 @@
   <channel site="tv.lv" site_id="unian" lang="lv" xmltv_id="">Униан</channel>
   <channel site="tv.lv" site_id="vh1-classic-europe" lang="lv" xmltv_id="VH1ClassicEurope.uk@SD">VH1 Classic Europe</channel>
   <channel site="tv.lv" site_id="vh1-euro-imm" lang="lv" xmltv_id="">VH1 Euro IMM</channel>
-  <channel site="tv.lv" site_id="viasat-explore-nordic" lang="en" xmltv_id="ViasatExplore.se@SD">Viasat Explore Nordic</channel>
   <channel site="tv.lv" site_id="viasat-golf" lang="lv" xmltv_id="">Viasat Golf</channel>
-  <channel site="tv.lv" site_id="viasat-history-cee" lang="en" xmltv_id="ViasatHistory.se@SD">Viasat History CEE</channel>
   <channel site="tv.lv" site_id="viasat-kino" lang="lv" xmltv_id="">Viasat Kino</channel>
   <channel site="tv.lv" site_id="viasat-kino-action" lang="lv" xmltv_id="">Viasat Kino Action</channel>
   <channel site="tv.lv" site_id="viasat-kino-comedy" lang="lv" xmltv_id="">Viasat Kino Comedy</channel>
   <channel site="tv.lv" site_id="viasat-kino-world" lang="lv" xmltv_id="">Viasat Kino World</channel>
-  <channel site="tv.lv" site_id="viasat-nature-cee" lang="en" xmltv_id="ViasatNature.se@SD">VIASAT Nature CEE</channel>
   <channel site="tv.lv" site_id="viasat-naturehistory-hd" lang="lv" xmltv_id="">Viasat Nature/History HD</channel>
   <channel site="tv.lv" site_id="viasat-sport" lang="lv" xmltv_id="">Viasat Sport</channel>
   <channel site="tv.lv" site_id="viasat-sport-east" lang="lv" xmltv_id="">VIASAT Sport East</channel>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
   <channel site="pickx.be" site_id="DTV29670499" lang="fr" xmltv_id="MaghrebTV.be@SD">Maghreb TV</channel>
-  <channel site="pickx.be" site_id="NETFLIX" lang="en" xmltv_id="">Netflix</channel>
   <channel site="pickx.be" site_id="UID0022" lang="fr" xmltv_id="NationalGeographicWild.fr@SD">NGC Wild F</channel>
   <channel site="pickx.be" site_id="UID0023" lang="nl" xmltv_id="NationalGeographicWild.nl@SD">NGC Wild N</channel>
   <channel site="pickx.be" site_id="UID0024" lang="de" xmltv_id="DasErste.de@SD">Das Erste</channel>
@@ -65,7 +64,6 @@
   <channel site="pickx.be" site_id="UID0311" lang="fr" xmltv_id="LN24.be@SD">LN24</channel>
   <channel site="pickx.be" site_id="UID0312" lang="fr" xmltv_id="C8.fr@SD">C8</channel>
   <channel site="pickx.be" site_id="UID0313" lang="nl" xmltv_id="VTMGold.be@SD">VTM Gold</channel>
-  <channel site="pickx.be" site_id="UID0461" lang="en" xmltv_id="PenthouseGold.us@SD">Penthouse Gold</channel>
   <channel site="pickx.be" site_id="UID0601" lang="nl" xmltv_id="PickxPlusSports1.be@NL">Pickx+ Sports 1 N</channel>
   <channel site="pickx.be" site_id="UID0602" lang="nl" xmltv_id="PickxPlusSports2.be@NL">Pickx+ Sports 2 N</channel>
   <channel site="pickx.be" site_id="UID0603" lang="nl" xmltv_id="PickxPlusSports3.be@NL">Pickx+ Sports 3 N</channel>
@@ -74,7 +72,6 @@
   <channel site="pickx.be" site_id="UID0606" lang="nl" xmltv_id="PickxPlusSports6.be@NL">Pickx+ Sports 6 N</channel>
   <channel site="pickx.be" site_id="UID0625" lang="nl" xmltv_id="PickxPlusSports8.be@NLHD">Pickx+ Sports 8 N HD</channel>
   <channel site="pickx.be" site_id="UID0626" lang="nl" xmltv_id="PickxPlusSports9.be@NLHD">Pickx+ Sports 9 N HD</channel>
-  <channel site="pickx.be" site_id="UID0628" lang="en" xmltv_id="DuskTV.nl@SD">Dusk</channel>
   <channel site="pickx.be" site_id="UID0629" lang="nl" xmltv_id="PickxLive.be@NLHD">Pickx Sports Pop-up N HD</channel>
   <channel site="pickx.be" site_id="UID0630" lang="nl" xmltv_id="PickxPlusSports1.be@NLHD">Pickx+ Sports 1 N HD</channel>
   <channel site="pickx.be" site_id="UID0631" lang="nl" xmltv_id="PickxPlusSports2.be@NLHD">Pickx+ Sports 2 N HD</channel>
@@ -134,14 +131,11 @@
   <channel site="pickx.be" site_id="UID2053" lang="fr" xmltv_id="Syfy.fr@HD">SyFy HD F</channel>
   <channel site="pickx.be" site_id="UID2054" lang="fr" xmltv_id="13emeRue.fr@HD">13è Rue HD</channel>
   <channel site="pickx.be" site_id="UID2055" lang="fr" xmltv_id="Action.fr@HD">Action HD</channel>
-  <channel site="pickx.be" site_id="UID2056" lang="en" xmltv_id="">CNN HD</channel>
   <channel site="pickx.be" site_id="UID2059" lang="nl" xmltv_id="Sport10.be@SD">Sport 10</channel>
   <channel site="pickx.be" site_id="UID2060" lang="fr" xmltv_id="Gulli.fr@HD">Gulli HD</channel>
   <channel site="pickx.be" site_id="UID2061" lang="nl" xmltv_id="NationalGeographic.nl@HD">NGC HD N</channel>
-  <channel site="pickx.be" site_id="UID2063" lang="en" xmltv_id="Motorvision.de@SD">Motorvision+</channel>
   <channel site="pickx.be" site_id="UID2065" lang="fr" xmltv_id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@HD">TV5 Monde HD</channel>
   <channel site="pickx.be" site_id="UID2066" lang="fr" xmltv_id="GameOne.fr@SD">Game One</channel>
-  <channel site="pickx.be" site_id="UID2067" lang="en" xmltv_id="Motorvision.de@HD">Motorvision+ HD</channel>
   <channel site="pickx.be" site_id="UID2068" lang="fr" xmltv_id="ComedyCentral.fr@SD">Comedy Central F</channel>
   <channel site="pickx.be" site_id="UID2069" lang="fr" xmltv_id="ParamountChannel.fr@SD">Paramount Channel</channel>
   <channel site="pickx.be" site_id="UID2070" lang="fr" xmltv_id="NickelodeonJunior.fr@SD">nick jr F</channel>
@@ -205,8 +199,6 @@
   <channel site="pickx.be" site_id="UID2350" lang="nl" xmltv_id="InsightTV.nl@SD">INPLUS</channel>
   <channel site="pickx.be" site_id="UID2351" lang="fr" xmltv_id="TF1SeriesFilms.fr@SD">TF1 Séries Films</channel>
   <channel site="pickx.be" site_id="UID2353" lang="nl" xmltv_id="QMusic.be@SD">Q-Music Kijk Live</channel>
-  <channel site="pickx.be" site_id="UID2355" lang="en" xmltv_id="">BBC One HD</channel>
-  <channel site="pickx.be" site_id="UID2356" lang="en" xmltv_id="BBCTwo.uk@HD">BBC Two HD</channel>
   <channel site="pickx.be" site_id="UID2357" lang="fr" xmltv_id="">Eurosp2 HD F</channel>
   <channel site="pickx.be" site_id="UID2358" lang="nl" xmltv_id="Eurosport2.fr@NetherlandsHD">Eurosp2 HD N</channel>
   <channel site="pickx.be" site_id="UID2359" lang="fr" xmltv_id="Boomerang.fr@HD">Boom F HD</channel>
@@ -215,7 +207,6 @@
   <channel site="pickx.be" site_id="UID2362" lang="nl" xmltv_id="CartoonNetworkWesternEurope.uk@NetherlandsHD">Cartoon N HD</channel>
   <channel site="pickx.be" site_id="UID2363" lang="nl" xmltv_id="">Disc Sc HD</channel>
   <channel site="pickx.be" site_id="UID2364" lang="nl" xmltv_id="InvestigationDiscovery.nl@HD">Inv Disc HD</channel>
-  <channel site="pickx.be" site_id="UID2366" lang="en" xmltv_id="WSport.za@SD">W Sports</channel>
   <channel site="pickx.be" site_id="UID2367" lang="fr" xmltv_id="DisneyJr.fr@HD">Disney Jr. F HD</channel>
   <channel site="pickx.be" site_id="UID2368" lang="fr" xmltv_id="ScienceVieTV.fr@HD">Sc et Vie TV HD</channel>
   <channel site="pickx.be" site_id="UID2369" lang="fr" xmltv_id="HistoireTV.fr@HD">Histoire HD</channel>
@@ -229,13 +220,10 @@
   <channel site="pickx.be" site_id="UID2377" lang="fr" xmltv_id="LCI.fr@HD">LCI HD</channel>
   <channel site="pickx.be" site_id="UID2378" lang="fr" xmltv_id="Mangas.fr@HD">Mangas HD</channel>
   <channel site="pickx.be" site_id="UID2379" lang="de" xmltv_id="ZDF.de@HD">ZDF HD</channel>
-  <channel site="pickx.be" site_id="UID2464" lang="en" xmltv_id="DorcelXXX.nl@HD">Dorcel XXX HD</channel>
   <channel site="pickx.be" site_id="UID2465" lang="nl" xmltv_id="PassieXXX.nl@HD">Passie XXX HD</channel>
-  <channel site="pickx.be" site_id="UID2466" lang="en" xmltv_id="PinkX.fr@HD">Pink HD</channel>
   <channel site="pickx.be" site_id="UID2467" lang="fr" xmltv_id="TiJi.fr@HD">Tiji HD</channel>
   <channel site="pickx.be" site_id="UID2468" lang="fr" xmltv_id="TraceUrban.fr@HD">Trace HD</channel>
   <channel site="pickx.be" site_id="UID2469" lang="fr" xmltv_id="CanalJ.fr@HD">Canal J HD</channel>
-  <channel site="pickx.be" site_id="UID2470" lang="en" xmltv_id="FashionTVEurope.fr@HD">Fashion TV HD</channel>
   <channel site="pickx.be" site_id="UID2471" lang="fr" xmltv_id="Melody.fr@HD">Melody.tv HD</channel>
   <channel site="pickx.be" site_id="UID2472" lang="nl" xmltv_id="MTV.nl@HD">MTV N HD</channel>
   <channel site="pickx.be" site_id="UID2473" lang="fr" xmltv_id="MTVHits.fr@HD">MTV Hits HD</channel>
@@ -246,11 +234,9 @@
   <channel site="pickx.be" site_id="UID2478" lang="fr" xmltv_id="RFMTV.fr@HD">RFM TV HD</channel>
   <channel site="pickx.be" site_id="UID2479" lang="fr" xmltv_id="BabyTV.uk@FranceHD">Baby TV F HD</channel>
   <channel site="pickx.be" site_id="UID2480" lang="nl" xmltv_id="BabyTV.uk@NetherlandsHD">Baby TV N HD</channel>
-  <channel site="pickx.be" site_id="UID2481" lang="en" xmltv_id="">BBC News HD</channel>
   <channel site="pickx.be" site_id="UID2482" lang="de" xmltv_id="RTL.de@HD">RTL Deutschland HD</channel>
   <channel site="pickx.be" site_id="UID2483" lang="fr" xmltv_id="TVEInternacionalEuropeAsia.es@HD">TVE International HD</channel>
   <channel site="pickx.be" site_id="UID2487" lang="fr" xmltv_id="Animaux.fr@HD">Animaux HD</channel>
-  <channel site="pickx.be" site_id="UID2488" lang="en" xmltv_id="EuronewsEnglish.fr@HD">Euronews E HD</channel>
   <channel site="pickx.be" site_id="UID2489" lang="fr" xmltv_id="EuronewsFrench.fr@HD">Euronews F HD</channel>
   <channel site="pickx.be" site_id="UID2531" lang="nl" xmltv_id="">Studio PXS N</channel>
   <channel site="pickx.be" site_id="UID2540" lang="nl" xmltv_id="">Play Crime HD</channel>
@@ -275,8 +261,6 @@
   <channel site="pickx.be" site_id="UID50028" lang="fr" xmltv_id="TraceUrban.fr@SD">TraceUrban</channel>
   <channel site="pickx.be" site_id="UID50029" lang="nl" xmltv_id="DiscoveryScienceEurope.uk@Netherlands">Disc Science</channel>
   <channel site="pickx.be" site_id="UID50030" lang="fr" xmltv_id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD">TV5 Monde</channel>
-  <channel site="pickx.be" site_id="UID50031" lang="en" xmltv_id="FashionTVEurope.fr@SD">FashionTV</channel>
-  <channel site="pickx.be" site_id="UID50032" lang="en" xmltv_id="CNNInternational.us@MENA">CNN</channel>
   <channel site="pickx.be" site_id="UID50034" lang="nl" xmltv_id="KanaalZ.be@SD">Kanaal Z</channel>
   <channel site="pickx.be" site_id="UID50035" lang="fr" xmltv_id="CanalZ.be@SD">Canal Z</channel>
   <channel site="pickx.be" site_id="UID50037" lang="nl" xmltv_id="VRT1.be@SD">VRT 1</channel>
@@ -300,9 +284,7 @@
   <channel site="pickx.be" site_id="UID50066" lang="nl" xmltv_id="Play5.be@SD">Play5</channel>
   <channel site="pickx.be" site_id="UID50067" lang="fr" xmltv_id="LCI.fr@SD">LCI</channel>
   <channel site="pickx.be" site_id="UID50068" lang="fr" xmltv_id="TF1.fr@SD">TF1</channel>
-  <channel site="pickx.be" site_id="UID50069" lang="en" xmltv_id="BBCNews.uk@Europe">BBC News</channel>
   <channel site="pickx.be" site_id="UID50070" lang="fr" xmltv_id="RTLClub.be@SD">RTL club</channel>
-  <channel site="pickx.be" site_id="UID50071" lang="en" xmltv_id="BBCOne.uk@London">BBC One</channel>
   <channel site="pickx.be" site_id="UID50072" lang="fr" xmltv_id="RTLTVI.be@SD">RTL tvi</channel>
   <channel site="pickx.be" site_id="UID50073" lang="fr" xmltv_id="France24.fr@French">France 24 F</channel>
   <channel site="pickx.be" site_id="UID50075" lang="fr" xmltv_id="BX1.be@SD">bx1</channel>
@@ -313,7 +295,6 @@
   <channel site="pickx.be" site_id="UID50082" lang="nl" xmltv_id="VTM3.be@SD">VTM 3</channel>
   <channel site="pickx.be" site_id="UID50083" lang="nl" xmltv_id="Play4.be@SD">Play4</channel>
   <channel site="pickx.be" site_id="UID50084" lang="nl" xmltv_id="VRTCanvas.be@SD">VRT Canvas</channel>
-  <channel site="pickx.be" site_id="UID50085" lang="en" xmltv_id="EuronewsEnglish.fr@SD">Euronews E</channel>
   <channel site="pickx.be" site_id="UID50087" lang="nl" xmltv_id="NationalGeographic.nl@SD">NGC N</channel>
   <channel site="pickx.be" site_id="UID50088" lang="fr" xmltv_id="France2.fr@SD">France 2</channel>
   <channel site="pickx.be" site_id="UID50089" lang="fr" xmltv_id="France3.fr@SD">France 3</channel>
@@ -359,7 +340,6 @@
   <channel site="pickx.be" site_id="UID50162" lang="fr" xmltv_id="AlJazeera.qa@English">Al Jazeera</channel>
   <channel site="pickx.be" site_id="UID50164" lang="fr" xmltv_id="KTO.fr@SD">KTO</channel>
   <channel site="pickx.be" site_id="UID50165" lang="nl" xmltv_id="Nicktoons.nl@SD">nick Toons</channel>
-  <channel site="pickx.be" site_id="UID50168" lang="en" xmltv_id="MTV80s.uk@SD">MTV 80s</channel>
   <channel site="pickx.be" site_id="UID50190" lang="fr" xmltv_id="TF1.fr@HD">TF1 HD</channel>
   <channel site="pickx.be" site_id="UID50192" lang="fr" xmltv_id="PinkX.fr@SD">Pink</channel>
   <channel site="pickx.be" site_id="UID50197" lang="fr" xmltv_id="UshuaiaTV.fr@HD">Ushuaïa HD</channel>
@@ -386,7 +366,6 @@
   <channel site="pickx.be" site_id="UID50269" lang="nl" xmltv_id="Eurosport2.fr@Netherlands">Eurosp2 N</channel>
   <channel site="pickx.be" site_id="UID50289" lang="fr" xmltv_id="PickxPlusSports7.be@FRHD">Pickx+ Sports 7 F HD</channel>
   <channel site="pickx.be" site_id="UID50290" lang="nl" xmltv_id="PickxPlusSports7.be@NLHD">Pickx+ Sports 7 N HD</channel>
-  <channel site="pickx.be" site_id="UID50295" lang="en" xmltv_id="BBCTwo.uk@England">BBC Two</channel>
   <channel site="pickx.be" site_id="UID50297" lang="nl" xmltv_id="VTM.be@HD">VTM HD</channel>
   <channel site="pickx.be" site_id="UID50301" lang="nl" xmltv_id="VTM4.be@SD">VTM 4</channel>
   <channel site="pickx.be" site_id="UID50302" lang="fr" xmltv_id="LaTrois.be@SD">La Trois</channel>
@@ -396,7 +375,6 @@
   <channel site="pickx.be" site_id="UID50309" lang="nl" xmltv_id="ProximusTVRegInfo.nl@SD">RegInfo N</channel>
   <channel site="pickx.be" site_id="UID50310" lang="nl" xmltv_id="Ketnet.be@SD">Ketnet</channel>
   <channel site="pickx.be" site_id="UID50314" lang="fr" xmltv_id="Nickelodeon.fr@SD">nick F</channel>
-  <channel site="pickx.be" site_id="UID50315" lang="en" xmltv_id="">MTV Live HD</channel>
   <channel site="pickx.be" site_id="UID50319" lang="nl" xmltv_id="MentTV.be@SD">Ment TV</channel>
   <channel site="pickx.be" site_id="UID50323" lang="fr" xmltv_id="LaUne.be@HD">La Une HD</channel>
   <channel site="pickx.be" site_id="UID50329" lang="nl" xmltv_id="DisneyChannel.nl@SD">Disn Ch N</channel>

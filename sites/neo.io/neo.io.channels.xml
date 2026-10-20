@@ -4,7 +4,6 @@
   <channel site="neo.io" site_id="3sat" lang="de" xmltv_id="3sat.de@SD">3sat</channel>
   <channel site="neo.io" site_id="20-mediaset" lang="it" xmltv_id="">20 Mediaset</channel>
   <channel site="neo.io" site_id="24kitchen" lang="sl" xmltv_id="24Kitchen.us@Slovenia">24Kitchen</channel>
-  <channel site="neo.io" site_id="360-tunebox" lang="en" xmltv_id="360TuneBox.nl@SD">360 TuneBox</channel>
   <channel site="neo.io" site_id="adria" lang="sl" xmltv_id="AdriaMusicTelevision.de@SD">Adria</channel>
   <channel site="neo.io" site_id="aktual-tv" lang="sl" xmltv_id="RadioAktual.si@SD">Aktual TV</channel>
   <channel site="neo.io" site_id="al-jazeera-balkans" lang="ba" xmltv_id="AlJazeeraBalkans.ba@SD">Al Jazeera Balkans</channel>
@@ -29,8 +28,6 @@
   <channel site="neo.io" site_id="balkan-erotic" lang="sl" xmltv_id="">Balkan Erotic</channel>
   <channel site="neo.io" site_id="balkan-trip" lang="sr" xmltv_id="BalkanTripTV.rs@SD">Balkan Trip</channel>
   <channel site="neo.io" site_id="bbc-earth" lang="sl" xmltv_id="BBCEarth.uk@Slovenia">BBC Earth</channel>
-  <channel site="neo.io" site_id="bbc-first" lang="en" xmltv_id="BBCFirst.uk@Benelux">BBC First</channel>
-  <channel site="neo.io" site_id="bbc-news" lang="en" xmltv_id="BBCNews.uk@Africa">BBC News</channel>
   <channel site="neo.io" site_id="best-tv" lang="sl" xmltv_id="">Best TV</channel>
   <channel site="neo.io" site_id="bht1" lang="ba" xmltv_id="BHT1.ba@SD">BHT1</channel>
   <channel site="neo.io" site_id="bir" lang="ba" xmltv_id="BIRTV.ba@SD">BIR TV</channel>
@@ -38,7 +35,6 @@
   <channel site="neo.io" site_id="bloomberg-adria" lang="sr" xmltv_id="BloombergAdria.rs@SD">Bloomberg Adria</channel>
   <channel site="neo.io" site_id="bn-tv-2" lang="ba" xmltv_id="BNTV.ba@SD">BN TV 2</channel>
   <channel site="neo.io" site_id="boob-hd" lang="sl" xmltv_id="">BooB HD</channel>
-  <channel site="neo.io" site_id="brazzers-tv-europe" lang="en" xmltv_id="BrazzersTVEurope.us@SD">Brazzers TV Europe</channel>
   <channel site="neo.io" site_id="brio" lang="sl" xmltv_id="BRIO.si@SD">BRIO</channel>
   <channel site="neo.io" site_id="canale-5" lang="it" xmltv_id="Canale5.it@SD">Canale 5</channel>
   <channel site="neo.io" site_id="capable-hole-hd" lang="sl" xmltv_id="">Capable Hole HD</channel>
@@ -54,9 +50,7 @@
   <channel site="neo.io" site_id="cinestar-tv-action-&amp;-thriller" lang="sl" xmltv_id="CineStarTVAction.si@SD">CineStar TV Action &amp; Thriller</channel>
   <channel site="neo.io" site_id="cinestar-tv-premiere-1" lang="sl" xmltv_id="CineStarTVPremiere1.si@SD">CineStar TV Premiere 1</channel>
   <channel site="neo.io" site_id="cinestar-tv-premiere-2" lang="sl" xmltv_id="CineStarTVPremiere2.si@SD">CineStar TV Premiere 2</channel>
-  <channel site="neo.io" site_id="club-mtv" lang="en" xmltv_id="ClubMTVEurope.uk@SD">Club MTV</channel>
   <channel site="neo.io" site_id="cmc" lang="hr" xmltv_id="CMCTV.hr@SD">CMC</channel>
-  <channel site="neo.io" site_id="cnn" lang="en" xmltv_id="">CNN</channel>
   <channel site="neo.io" site_id="curiosity-channel" lang="de" xmltv_id="CuriosityChannel.de@SD">Curiosity Channel</channel>
   <channel site="neo.io" site_id="da-vinci-learning" lang="sl" xmltv_id="DaVinci.si@SD">Da Vinci</channel>
   <channel site="neo.io" site_id="devils-home-hd" lang="sl" xmltv_id="">Devils Home HD</channel>
@@ -68,36 +62,25 @@
   <channel site="neo.io" site_id="diva" lang="sl" xmltv_id="">Diva</channel>
   <channel site="neo.io" site_id="dizi" lang="sr" xmltv_id="">Dizi</channel>
   <channel site="neo.io" site_id="dm-sat" lang="sr" xmltv_id="DMSat.rs@SD">DM Sat</channel>
-  <channel site="neo.io" site_id="docubox" lang="en" xmltv_id="DocuBox.nl@SD">DocuBox</channel>
-  <channel site="neo.io" site_id="dom-kino" lang="ru" xmltv_id="">Дом кино</channel>
   <channel site="neo.io" site_id="dorcel-tv-hd" lang="fr" xmltv_id="DorcelTV.nl@SD">Dorcel TV</channel>
   <channel site="neo.io" site_id="dorcel-xxx-hd" lang="fr" xmltv_id="DorcelXXX.nl@SD">Dorcel XXX</channel>
   <channel site="neo.io" site_id="dox-tv" lang="hr" xmltv_id="DoxTV.hr@SD">Dox TV</channel>
   <channel site="neo.io" site_id="DUGANS" lang="sl" xmltv_id="">TV Duga Novi sad</channel>
   <channel site="neo.io" site_id="duna-hd" lang="hu" xmltv_id="Duna.hu@SD">Duna HD</channel>
   <channel site="neo.io" site_id="duna-world" lang="hu" xmltv_id="DunaWorld.hu@SD">Duna World</channel>
-  <channel site="neo.io" site_id="dusk-tv" lang="en" xmltv_id="DuskTV.nl@SD">Dusk TV</channel>
   <channel site="neo.io" site_id="e!" lang="sl" xmltv_id="">E!</channel>
   <channel site="neo.io" site_id="elta-2" lang="ba" xmltv_id="">Elta 2</channel>
   <channel site="neo.io" site_id="elta-hd" lang="ba" xmltv_id="">ELTA HD</channel>
   <channel site="neo.io" site_id="elta-tv" lang="sl" xmltv_id="">ELTA TV</channel>
   <channel site="neo.io" site_id="epic-drama" lang="sl" xmltv_id="">Epic Drama</channel>
   <channel site="neo.io" site_id="eposavje-tv-hd" lang="sl" xmltv_id="ePosavjeTV.si@SD">ePosavje TV</channel>
-  <channel site="neo.io" site_id="erox" lang="en" xmltv_id="EroX.nl@SD">EroX</channel>
-  <channel site="neo.io" site_id="eroxxx" lang="en" xmltv_id="EroXXX.nl@SD">EroXXX</channel>
   <channel site="neo.io" site_id="etv-hd" lang="sl" xmltv_id="ETV.si@SD">ETV</channel>
   <channel site="neo.io" site_id="eurosport-1" lang="sl" xmltv_id="">Eurosport 1</channel>
   <channel site="neo.io" site_id="eurosport-2" lang="sl" xmltv_id="">Eurosport 2</channel>
   <channel site="neo.io" site_id="ewtn" lang="de" xmltv_id="EWTN.de@SD">EWTN</channel>
   <channel site="neo.io" site_id="exodus-tv" lang="sl" xmltv_id="ExodusTV.si@SD">Exodus TV</channel>
   <channel site="neo.io" site_id="extrem" lang="de" xmltv_id="">Extreme</channel>
-  <channel site="neo.io" site_id="extreme-tv" lang="en" xmltv_id="ExtremeSportsChannel.nl@SD">Extreme Sports Channel</channel>
   <channel site="neo.io" site_id="fashion-hd" lang="sl" xmltv_id="">Fashion HD</channel>
-  <channel site="neo.io" site_id="fashion-tv" lang="en" xmltv_id="FashionTVEurope.fr@SD">Fashion TV</channel>
-  <channel site="neo.io" site_id="fashionbox" lang="en" xmltv_id="FashionBox.nl@SD">FashionBox</channel>
-  <channel site="neo.io" site_id="fashiontv-4k" lang="en" xmltv_id="FashionTVEurope.fr@SD">Fashion TV 4K</channel>
-  <channel site="neo.io" site_id="fast-and-funbox" lang="en" xmltv_id="FastFunBox.nl@SD">Fast and FunBox</channel>
-  <channel site="neo.io" site_id="fightbox" lang="en" xmltv_id="FightBox.nl@SD">FightBox</channel>
   <channel site="neo.io" site_id="filmbox-arthouse" lang="sl" xmltv_id="">FilmBox Arthouse</channel>
   <channel site="neo.io" site_id="filmbox-extra" lang="sl" xmltv_id="">FilmBox Extra</channel>
   <channel site="neo.io" site_id="filmbox-premium" lang="sl" xmltv_id="">FilmBox Premium</channel>
@@ -105,12 +88,9 @@
   <channel site="neo.io" site_id="focus" lang="it" xmltv_id="Focus.it@SD">Focus</channel>
   <channel site="neo.io" site_id="folk-plus" lang="sq" xmltv_id="FolkPlus.al@SD">Folk Plus</channel>
   <channel site="neo.io" site_id="folx" lang="sl" xmltv_id="FolxMusicTelevision.de@SD">Folx</channel>
-  <channel site="neo.io" site_id="fox-news" lang="en" xmltv_id="">FOX News</channel>
   <channel site="neo.io" site_id="foxy-dolls-hd" lang="sl" xmltv_id="">Foxy Dolls HD</channel>
   <channel site="neo.io" site_id="france-24" lang="fr" xmltv_id="">France 24</channel>
   <channel site="neo.io" site_id="ftv" lang="ba" xmltv_id="Federalnatelevizija.ba@SD">FTV</channel>
-  <channel site="neo.io" site_id="funbox" lang="en" xmltv_id="FunBoxUHD.nl@SD">FunBox 4K</channel>
-  <channel site="neo.io" site_id="gametoon" lang="en" xmltv_id="Gametoon.nl@SD">Gametoon</channel>
   <channel site="neo.io" site_id="gasscore-hd" lang="sl" xmltv_id="">Gasscore HD</channel>
   <channel site="neo.io" site_id="gea-tv" lang="sl" xmltv_id="GeaTV.si@SD">Gea TV</channel>
   <channel site="neo.io" site_id="glam-hd" lang="sl" xmltv_id="">Glam HD</channel>
@@ -132,8 +112,6 @@
   <channel site="neo.io" site_id="hrt-1" lang="hr" xmltv_id="HRT1.hr@SD">HRT 1</channel>
   <channel site="neo.io" site_id="hrt-2" lang="hr" xmltv_id="HRT2.hr@SD">HRT 2</channel>
   <channel site="neo.io" site_id="hrt-3" lang="hr" xmltv_id="HRT3.hr@SD">HRT 3</channel>
-  <channel site="neo.io" site_id="hustler-tv" lang="en" xmltv_id="HustlerTVEurope.nl@SD">Hustler TV</channel>
-  <channel site="neo.io" site_id="hustler-tv-hd" lang="en" xmltv_id="HustlerHD.nl@SD">Hustler HD</channel>
   <channel site="neo.io" site_id="ictbusiness-tv" lang="hr" xmltv_id="ICTBusiness.hr@SD">ICTbusiness TV</channel>
   <channel site="neo.io" site_id="IDEATV" lang="sl" xmltv_id="">Kanal 10 / Idea TV</channel>
   <channel site="neo.io" site_id="italia-1" lang="it" xmltv_id="Italia1.it@SD">Italia 1</channel>
@@ -143,7 +121,6 @@
   <channel site="neo.io" site_id="kabel-1" lang="de" xmltv_id="kabeleins.de@SD">kabel eins</channel>
   <channel site="neo.io" site_id="kamin" lang="sl" xmltv_id="">Kamin</channel>
   <channel site="neo.io" site_id="kanal-a" lang="sl" xmltv_id="KanalA.si@SD">Kanal A</channel>
-  <channel site="neo.io" site_id="karousel" lang="ru" xmltv_id="">Карусель</channel>
   <channel site="neo.io" site_id="kcn-1" lang="sr" xmltv_id="TVKCN1.rs@SD">KCN 1</channel>
   <channel site="neo.io" site_id="kcn-2-(music)" lang="sr" xmltv_id="TVKCN2.rs@SD">KCN 2 (music)</channel>
   <channel site="neo.io" site_id="kcn-3-(svet+)" lang="sr" xmltv_id="TVKCN3.rs@SD">KCN 3 (svet+)</channel>
@@ -169,22 +146,15 @@
   <channel site="neo.io" site_id="morska-obala" lang="sl" xmltv_id="">Morska obala</channel>
   <channel site="neo.io" site_id="motorvision+" lang="de" xmltv_id="MotorvisionPlus.de@SD">Motorvision+</channel>
   <channel site="neo.io" site_id="mreza-tv" lang="ba" xmltv_id="">Mreža TV</channel>
-  <channel site="neo.io" site_id="mtv-00s" lang="en" xmltv_id="MTV00s.uk@SD">MTV 00s</channel>
   <channel site="neo.io" site_id="mtv-1" lang="mk" xmltv_id="MRT1.mk@SD">MTV 1</channel>
   <channel site="neo.io" site_id="mtv-2" lang="mk" xmltv_id="MRT2.mk@SD">MTV 2</channel>
   <channel site="neo.io" site_id="mtv-3" lang="mk" xmltv_id="MRT3.mk@SD">MTV 3</channel>
-  <channel site="neo.io" site_id="mtv-80s" lang="en" xmltv_id="MTV80s.uk@SD">MTV 80s</channel>
-  <channel site="neo.io" site_id="mtv-90s" lang="en" xmltv_id="MTV90s.uk@SD">MTV 90s</channel>
-  <channel site="neo.io" site_id="mtv-hd" lang="en" xmltv_id="">MTV</channel>
-  <channel site="neo.io" site_id="mtv-hits" lang="en" xmltv_id="MTVHitsEurope.uk@SD">MTV Hits</channel>
   <channel site="neo.io" site_id="museum-hd" lang="fr" xmltv_id="">Museum</channel>
-  <channel site="neo.io" site_id="muzika-pervogo" lang="ru" xmltv_id="MuzykaPervogo.ru@SD">Музыка Первого</channel>
   <channel site="neo.io" site_id="n-tv" lang="de" xmltv_id="ntv.de@SD">n-tv</channel>
   <channel site="neo.io" site_id="narodna-tv" lang="sr" xmltv_id="NarodnaTV.rs@SD">Narodna TV</channel>
   <channel site="neo.io" site_id="nasa-tv" lang="mk" xmltv_id="NasaTV.mk@SD">Наша ТВ</channel>
   <channel site="neo.io" site_id="national-geographic" lang="sl" xmltv_id="NationalGeographic.si@SD">National Geographic</channel>
   <channel site="neo.io" site_id="national-geographic-wild" lang="sl" xmltv_id="NationalGeographicWild.si@SD">National Geographic Wild</channel>
-  <channel site="neo.io" site_id="nautical-channel" lang="en" xmltv_id="NauticalChannel.it@SD">Nautical Channel</channel>
   <channel site="neo.io" site_id="net-tv" lang="sl" xmltv_id="NetTV.si@SD">Net TV</channel>
   <channel site="neo.io" site_id="nick-jr." lang="sl" xmltv_id="NickJr.si@SD">Nick Jr.</channel>
   <channel site="neo.io" site_id="nickelodeon" lang="sl" xmltv_id="Nickelodeon.si@SD">Nickelodeon</channel>
@@ -202,7 +172,6 @@
   <channel site="neo.io" site_id="oto" lang="sl" xmltv_id="OTO.si@SD">OTO</channel>
   <channel site="neo.io" site_id="otv-music" lang="sl" xmltv_id="">OTV Music</channel>
   <channel site="neo.io" site_id="otv-valentino" lang="ba" xmltv_id="OTVValentino.ba@SD">OTV Valentino</channel>
-  <channel site="neo.io" site_id="passion-xxx-hd" lang="en" xmltv_id="PassionXXX.nl@SD">Passion XXX</channel>
   <channel site="neo.io" site_id="pickbox-tv" lang="hr" xmltv_id="PickboxTV.hr@SD">Pickbox TV</channel>
   <channel site="neo.io" site_id="pink-extra" lang="sr" xmltv_id="PinkExtra.rs@SD">Pink Extra</channel>
   <channel site="neo.io" site_id="pink-film" lang="sr" xmltv_id="PinkFilm.rs@SD">Pink Film</channel>
@@ -242,8 +211,6 @@
   <channel site="neo.io" site_id="rai-movie" lang="it" xmltv_id="RaiMovie.it@SD">Rai Movie</channel>
   <channel site="neo.io" site_id="rai-sport" lang="it" xmltv_id="RaiSport.it@SD">Rai Sport</channel>
   <channel site="neo.io" site_id="rai-yoyo" lang="it" xmltv_id="">Rai YoYo</channel>
-  <channel site="neo.io" site_id="reality-kings-tv" lang="en" xmltv_id="RealityKingsTV.us@SD">Reality Kings TV</channel>
-  <channel site="neo.io" site_id="redlight-hd" lang="en" xmltv_id="RedlightHD.nl@SD">Redlight HD</channel>
   <channel site="neo.io" site_id="rete-4" lang="it" xmltv_id="Rete4.it@SD">Rete 4</channel>
   <channel site="neo.io" site_id="RKANALP" lang="sl" xmltv_id="RkanalPlus.si@SD">R Kanal+</channel>
   <channel site="neo.io" site_id="rt-srbija-hd" lang="sr" xmltv_id="">RT Srbija</channel>
@@ -264,7 +231,6 @@
   <channel site="neo.io" site_id="scifi" lang="sl" xmltv_id="">SciFi</channel>
   <channel site="neo.io" site_id="sexation" lang="sl" xmltv_id="">Sexation</channel>
   <channel site="neo.io" site_id="sip-tv" lang="sl" xmltv_id="SIPTV.si@SD">SIP TV</channel>
-  <channel site="neo.io" site_id="sky-news" lang="en" xmltv_id="SkyNews.uk@SD">Sky News</channel>
   <channel site="neo.io" site_id="slon-tv-extra" lang="ba" xmltv_id="TVSlonExtra.ba@SD">SLON TV extra</channel>
   <channel site="neo.io" site_id="sonce-tv" lang="mk" xmltv_id="TVSonce.mk@SD">Sonce TV</channel>
   <channel site="neo.io" site_id="sport-tv-1" lang="sl" xmltv_id="SportTV1.si@SD">Šport TV 1</channel>
@@ -277,12 +243,8 @@
   <channel site="neo.io" site_id="super-one-hd" lang="sl" xmltv_id="">Super One HD</channel>
   <channel site="neo.io" site_id="super-rtl" lang="de" xmltv_id="">Super RTL</channel>
   <channel site="neo.io" site_id="tele-maribor" lang="sl" xmltv_id="TVMaribor.si@SD">Tele Maribor</channel>
-  <channel site="neo.io" site_id="telecafe" lang="ru" xmltv_id="Telecafe.ru@SD">Телекафе</channel>
   <channel site="neo.io" site_id="televizija-24" lang="sl" xmltv_id="">Televizija 24</channel>
-  <channel site="neo.io" site_id="tnt-music" lang="ru" xmltv_id="TNTMusic.ru@SD">ТНТ Music</channel>
   <channel site="neo.io" site_id="top-tv" lang="sl" xmltv_id="TopTV.si@SD">Top TV</channel>
-  <channel site="neo.io" site_id="trace-sport" lang="en" xmltv_id="TraceSportStars.fr@HD">Trace Sport Stars</channel>
-  <channel site="neo.io" site_id="trace-urban" lang="en" xmltv_id="TraceUrban.fr@SD">Trace Urban</channel>
   <channel site="neo.io" site_id="travel-channel" lang="sl" xmltv_id="">Travel Channel</channel>
   <channel site="neo.io" site_id="travelxp-4k" lang="sl" xmltv_id="">Travelxp 4K</channel>
   <channel site="neo.io" site_id="travelxp-hd" lang="sl" xmltv_id="">Travelxp</channel>
@@ -327,10 +289,7 @@
   <channel site="neo.io" site_id="viasat-true-crime" lang="sl" xmltv_id="">Viasat True Crime</channel>
   <channel site="neo.io" site_id="vikom" lang="ba" xmltv_id="RTVVikom.ba@SD">Vikom</channel>
   <channel site="neo.io" site_id="vitel" lang="sl" xmltv_id="Vitel.si@SD">Vitel</channel>
-  <channel site="neo.io" site_id="vivid-red-hd" lang="en" xmltv_id="">Vivid Red</channel>
-  <channel site="neo.io" site_id="vivid-touch" lang="en" xmltv_id="VividTouch.uk@SD">Vivid Touch</channel>
   <channel site="neo.io" site_id="vox" lang="de" xmltv_id="VOX.de@SD">VOX</channel>
-  <channel site="neo.io" site_id="vremya" lang="ru" xmltv_id="Vremya.ru@SD">Время</channel>
   <channel site="neo.io" site_id="vtv" lang="sl" xmltv_id="VTV.si@SD">VTV</channel>
   <channel site="neo.io" site_id="xxxtazy-hd" lang="sl" xmltv_id="">XXXTazy HD</channel>
   <channel site="neo.io" site_id="z1-televizija" lang="hr" xmltv_id="Z1.hr@SD">Z1 Televizija</channel>

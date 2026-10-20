@@ -12,7 +12,6 @@
   <channel site="teleboy.ch" site_id="38" lang="de" xmltv_id="ntv.at@SD">n-tv</channel>
   <channel site="teleboy.ch" site_id="40" lang="de" xmltv_id="ARDalpha.de@SD">ARD-alpha</channel>
   <channel site="teleboy.ch" site_id="44" lang="de" xmltv_id="WELT.de@SD">WELT</channel>
-  <channel site="teleboy.ch" site_id="50" lang="en" xmltv_id="CNN.us@SD">CNN</channel>
   <channel site="teleboy.ch" site_id="52" lang="it" xmltv_id="Rai1.it@SD">Rai 1</channel>
   <channel site="teleboy.ch" site_id="53" lang="it" xmltv_id="Rai2.it@SD">Rai 2</channel>
   <channel site="teleboy.ch" site_id="54" lang="it" xmltv_id="Rai3.it@HD">Rai 3</channel>
@@ -24,14 +23,10 @@
   <channel site="teleboy.ch" site_id="84" lang="de" xmltv_id="Tele1.ch@SD">Tele 1</channel>
   <channel site="teleboy.ch" site_id="85" lang="de" xmltv_id="TVO.ch@SD">TVO - das Ostschweizer Fernsehen</channel>
   <channel site="teleboy.ch" site_id="86" lang="de" xmltv_id="TELE5.de@SD">Tele 5</channel>
-  <channel site="teleboy.ch" site_id="101" lang="en" xmltv_id="BBCNews.uk@Europe">BBC World News</channel>
   <channel site="teleboy.ch" site_id="121" lang="de" xmltv_id="ZDFneo.de@SD">ZDFneo</channel>
-  <channel site="teleboy.ch" site_id="131" lang="en" xmltv_id="CNBCEurope.uk@SD">CNBC Europe</channel>
   <channel site="teleboy.ch" site_id="137" lang="it" xmltv_id="TV8.it@SD">TV8</channel>
   <channel site="teleboy.ch" site_id="145" lang="de" xmltv_id="DisneyChannel.de@SD">Disney Channel</channel>
   <channel site="teleboy.ch" site_id="147" lang="fr" xmltv_id="France24.fr@French">France 24 fr</channel>
-  <channel site="teleboy.ch" site_id="148" lang="en" xmltv_id="AlJazeera.qa@English">Al Jazeera en</channel>
-  <channel site="teleboy.ch" site_id="150" lang="en" xmltv_id="BloombergTV.us@Europe">Bloomberg</channel>
   <channel site="teleboy.ch" site_id="152" lang="pt" xmltv_id="RTPMundo.pt@SD">RTPi</channel>
   <channel site="teleboy.ch" site_id="153" lang="es" xmltv_id="TVEInternacionalEurope.es@SD">TVEi</channel>
   <channel site="teleboy.ch" site_id="154" lang="de" xmltv_id="DMAX.de@SD">DMAX</channel>
@@ -40,17 +35,8 @@
   <channel site="teleboy.ch" site_id="175" lang="de" xmltv_id="AnixeHDSerie.de@SD">Anixe</channel>
   <channel site="teleboy.ch" site_id="177" lang="de" xmltv_id="DeluxeMusic.de@SD">Deluxe Music</channel>
   <channel site="teleboy.ch" site_id="182" lang="de" xmltv_id="7PlusNickSchweiz.ch@SD">7+ / Nick CH</channel>
-  <channel site="teleboy.ch" site_id="185" lang="en" xmltv_id="CBBC.uk@SD">CBBC</channel>
-  <channel site="teleboy.ch" site_id="189" lang="en" xmltv_id="ITV3.uk@SD">ITV 3</channel>
-  <channel site="teleboy.ch" site_id="191" lang="en" xmltv_id="Channel5.uk@SD">Channel 5</channel>
-  <channel site="teleboy.ch" site_id="192" lang="en" xmltv_id="E4.uk@SD">E4</channel>
-  <channel site="teleboy.ch" site_id="193" lang="en" xmltv_id="More4.uk@SD">More 4</channel>
   <channel site="teleboy.ch" site_id="194" lang="it" xmltv_id="EuronewsItalian.fr@SD">euronews it</channel>
-  <channel site="teleboy.ch" site_id="195" lang="en" xmltv_id="EuronewsEnglish.fr@SD">euronews en</channel>
   <channel site="teleboy.ch" site_id="196" lang="fr" xmltv_id="EuronewsFrench.fr@SD">euronews fr</channel>
-  <channel site="teleboy.ch" site_id="255" lang="en" xmltv_id="ITV2.uk@SD">ITV 2</channel>
-  <channel site="teleboy.ch" site_id="262" lang="en" xmltv_id="Channel4.uk@UK">Channel 4</channel>
-  <channel site="teleboy.ch" site_id="263" lang="en" xmltv_id="Film4.uk@SD">Film 4</channel>
   <channel site="teleboy.ch" site_id="268" lang="fr" xmltv_id="W9.fr@SD">W9</channel>
   <channel site="teleboy.ch" site_id="270" lang="fr" xmltv_id="Gulli.fr@SD">Gulli</channel>
   <channel site="teleboy.ch" site_id="271" lang="it" xmltv_id="RaiSport.it@SD">Rai Sport 1</channel>
@@ -85,8 +71,6 @@
   <channel site="teleboy.ch" site_id="329" lang="it" xmltv_id="Rete4.it@SD">Rete 4</channel>
   <channel site="teleboy.ch" site_id="330" lang="fr" xmltv_id="arte.fr@SD">Arte fr</channel>
   <channel site="teleboy.ch" site_id="331" lang="fr" xmltv_id="RTS1.ch@SD">RTS Un</channel>
-  <channel site="teleboy.ch" site_id="332" lang="en" xmltv_id="BBCOne.uk@London">BBC One</channel>
-  <channel site="teleboy.ch" site_id="333" lang="en" xmltv_id="BBCTwo.uk@England">BBC Two</channel>
   <channel site="teleboy.ch" site_id="335" lang="it" xmltv_id="Canale5.it@SD">Canale 5</channel>
   <channel site="teleboy.ch" site_id="336" lang="de" xmltv_id="BRFernsehen.de@Sud">BR Fernsehen Süd</channel>
   <channel site="teleboy.ch" site_id="337" lang="de" xmltv_id="NDRFernsehen.de@Hamburg">NDR Fernsehen</channel>
@@ -98,7 +82,6 @@
   <channel site="teleboy.ch" site_id="343" lang="de" xmltv_id="KiKA.de@SD">KiKa</channel>
   <channel site="teleboy.ch" site_id="344" lang="it" xmltv_id="Italia1.it@SD">Italia 1</channel>
   <channel site="teleboy.ch" site_id="345" lang="de" xmltv_id="SWRFernsehenBadenWurttemberg.de@SD">SWR Fernsehen BW</channel>
-  <channel site="teleboy.ch" site_id="346" lang="en" xmltv_id="ITV1.uk@London">ITV</channel>
   <channel site="teleboy.ch" site_id="347" lang="de" xmltv_id="ORF2.at@SD">ORF 2</channel>
   <channel site="teleboy.ch" site_id="348" lang="de" xmltv_id="5Plus.ch@SD">5+</channel>
   <channel site="teleboy.ch" site_id="350" lang="de" xmltv_id="3Plus.ch@SD">3+</channel>
@@ -135,13 +118,7 @@
   <channel site="teleboy.ch" site_id="390" lang="de" xmltv_id="6Plus.ch@SD">6+</channel>
   <channel site="teleboy.ch" site_id="391" lang="it" xmltv_id="20.it@SD">20 Mediaset</channel>
   <channel site="teleboy.ch" site_id="392" lang="es" xmltv_id="24Horas.es@SD">24H</channel>
-  <channel site="teleboy.ch" site_id="393" lang="en" xmltv_id="4seven.uk@SD">4Seven</channel>
-  <channel site="teleboy.ch" site_id="394" lang="en" xmltv_id="5SELECT.uk@SD">5SELECT</channel>
-  <channel site="teleboy.ch" site_id="396" lang="en" xmltv_id="5USA.uk@SD">5USA</channel>
   <channel site="teleboy.ch" site_id="398" lang="ar" xmltv_id="BBCArabic.uk@SD">BBC Arabic</channel>
-  <channel site="teleboy.ch" site_id="399" lang="en" xmltv_id="BBCFour.uk@UK">BBC Four</channel>
-  <channel site="teleboy.ch" site_id="400" lang="en" xmltv_id="BBCNews.uk@UK">BBC News</channel>
-  <channel site="teleboy.ch" site_id="401" lang="en" xmltv_id="BBCParliament.uk@SD">BBC Parliament</channel>
   <channel site="teleboy.ch" site_id="402" lang="fr" xmltv_id="Carac5.ch@SD">beCuriousTV</channel>
   <channel site="teleboy.ch" site_id="403" lang="de" xmltv_id="BibelTV.de@SD">Bibel TV</channel>
   <channel site="teleboy.ch" site_id="404" lang="it" xmltv_id="Boing.it@SD">Boing</channel>
@@ -149,36 +126,24 @@
   <channel site="teleboy.ch" site_id="408" lang="fr" xmltv_id="Canal9.ch@SD">Canal9</channel>
   <channel site="teleboy.ch" site_id="409" lang="it" xmltv_id="CanaleItalia.it@SD">Canale Italia</channel>
   <channel site="teleboy.ch" site_id="410" lang="it" xmltv_id="Cartoonito.it@SD">Cartoonito</channel>
-  <channel site="teleboy.ch" site_id="411" lang="en" xmltv_id="CBeebies.uk@SD">CBeebies</channel>
-  <channel site="teleboy.ch" site_id="412" lang="en" xmltv_id="Challenge.uk@SD">Challenge</channel>
   <channel site="teleboy.ch" site_id="417" lang="it" xmltv_id="MediasetExtra2.it@SD">Mediaset Extra 2</channel>
   <channel site="teleboy.ch" site_id="418" lang="it" xmltv_id="ClassTVModa.it@SD">Class TV Moda</channel>
-  <channel site="teleboy.ch" site_id="419" lang="en" xmltv_id="ClublandTV.uk@SD">Clubland TV</channel>
   <channel site="teleboy.ch" site_id="420" lang="fr" xmltv_id="CNews.fr@SD">CNEWS</channel>
   <channel site="teleboy.ch" site_id="422" lang="fr" xmltv_id="CStar.fr@SD">CSTAR</channel>
-  <channel site="teleboy.ch" site_id="423" lang="en" xmltv_id="UDave.uk@SD">Dave</channel>
-  <channel site="teleboy.ch" site_id="426" lang="en" xmltv_id="DW.de@English">Deutsche Welle en</channel>
   <channel site="teleboy.ch" site_id="427" lang="ar" xmltv_id="DW.de@Arabic">Deutsche Welle ar</channel>
   <channel site="teleboy.ch" site_id="428" lang="es" xmltv_id="DW.de@Espanol">Deutsche Welle es</channel>
   <channel site="teleboy.ch" site_id="429" lang="de" xmltv_id="DMF.de@SD">Deutsches Musik Fernsehen</channel>
   <channel site="teleboy.ch" site_id="430" lang="it" xmltv_id="DMAX.it@SD">DMAX Italia</channel>
-  <channel site="teleboy.ch" site_id="431" lang="en" xmltv_id="UDrama.uk@SD">Drama</channel>
-  <channel site="teleboy.ch" site_id="433" lang="en" xmltv_id="FashionTVEurope.fr@SD">Fashion TV</channel>
   <channel site="teleboy.ch" site_id="434" lang="it" xmltv_id="Focus.it@SD">Focus</channel>
-  <channel site="teleboy.ch" site_id="435" lang="en" xmltv_id="FoodNetwork.uk@SD">Food Network</channel>
-  <channel site="teleboy.ch" site_id="436" lang="en" xmltv_id="France24.fr@English">France 24 en</channel>
   <channel site="teleboy.ch" site_id="437" lang="fr" xmltv_id="Franceinfo.fr@SD">franceinfo</channel>
   <channel site="teleboy.ch" site_id="439" lang="it" xmltv_id="Frisbee.it@SD">Frisbee</channel>
   <channel site="teleboy.ch" site_id="440" lang="it" xmltv_id="Giallo.it@HD">Giallo</channel>
-  <channel site="teleboy.ch" site_id="441" lang="en" xmltv_id="GODTV.uk@SD">GOD Channel</channel>
   <channel site="teleboy.ch" site_id="444" lang="de" xmltv_id="hrfernsehen.de@SD">hr-fernsehen</channel>
   <channel site="teleboy.ch" site_id="445" lang="de" xmltv_id="HSE.de@SD">HSE24</channel>
   <channel site="teleboy.ch" site_id="446" lang="de" xmltv_id="HSEExtra.de@SD">HSE24 Extra</channel>
   <channel site="teleboy.ch" site_id="447" lang="de" xmltv_id="HSETrend.de@SD">HSE24 Trend</channel>
   <channel site="teleboy.ch" site_id="450" lang="it" xmltv_id="Iris.it@SD">Iris</channel>
   <channel site="teleboy.ch" site_id="451" lang="it" xmltv_id="Italia2.it@SD">Italia 2</channel>
-  <channel site="teleboy.ch" site_id="452" lang="en" xmltv_id="ITV4.uk@SD">ITV 4</channel>
-  <channel site="teleboy.ch" site_id="453" lang="en" xmltv_id="ITVBe.uk@SD">ITVBe</channel>
   <channel site="teleboy.ch" site_id="454" lang="de" xmltv_id="KTV.de@SD">K-TV</channel>
   <channel site="teleboy.ch" site_id="455" lang="it" xmltv_id="K2.it@SD">K2</channel>
   <channel site="teleboy.ch" site_id="456" lang="de" xmltv_id="kabeleinsDoku.de@SD">Kabel Eins Doku</channel>
@@ -188,10 +153,7 @@
   <channel site="teleboy.ch" site_id="462" lang="fr" xmltv_id="LCI.fr@SD">LCI</channel>
   <channel site="teleboy.ch" site_id="465" lang="de" xmltv_id="N24Doku.de@SD">N24 Doku</channel>
   <channel site="teleboy.ch" site_id="468" lang="it" xmltv_id="Nove.it@SD">NOVE</channel>
-  <channel site="teleboy.ch" site_id="469" lang="en" xmltv_id="NOWRock.uk@SD">Now 90s</channel>
   <channel site="teleboy.ch" site_id="470" lang="de" xmltv_id="One.de@SD">ARD ONE</channel>
-  <channel site="teleboy.ch" site_id="473" lang="en" xmltv_id="PBSAmerica.uk@SD">PBS America</channel>
-  <channel site="teleboy.ch" site_id="474" lang="en" xmltv_id="SkyMix.uk@SD">Sky Mix</channel>
   <channel site="teleboy.ch" site_id="475" lang="de" xmltv_id="R9.at@SD">R9 Österreich</channel>
   <channel site="teleboy.ch" site_id="476" lang="de" xmltv_id="RadioBremenFernsehen.de@SD">Radio Bremen TV</channel>
   <channel site="teleboy.ch" site_id="477" lang="it" xmltv_id="Rai4.it@SD">Rai 4</channel>
@@ -209,10 +171,7 @@
   <channel site="teleboy.ch" site_id="491" lang="de" xmltv_id="">Rocket Beans TV</channel>
   <channel site="teleboy.ch" site_id="493" lang="de" xmltv_id="RTLup.de@SD">RTLup</channel>
   <channel site="teleboy.ch" site_id="494" lang="pt" xmltv_id="RTPNoticias.pt@HD">RTP 3</channel>
-  <channel site="teleboy.ch" site_id="495" lang="en" xmltv_id="S4C.uk@SD">S4C</channel>
-  <channel site="teleboy.ch" site_id="496" lang="en" xmltv_id="SkyNews.uk@SD">Sky News</channel>
   <channel site="teleboy.ch" site_id="498" lang="it" xmltv_id="SkyTG24.it@SD">Sky TG24</channel>
-  <channel site="teleboy.ch" site_id="499" lang="en" xmltv_id="SBNTVInternational.us@SD">SONLife</channel>
   <channel site="teleboy.ch" site_id="501" lang="de" xmltv_id="SRFernsehen.de@SD">SR Fernsehen</channel>
   <channel site="teleboy.ch" site_id="502" lang="it" xmltv_id="Super.it@SD">Super!</channel>
   <channel site="teleboy.ch" site_id="503" lang="de" xmltv_id="tagesschau24.de@SD">tagesschau24</channel>
@@ -220,7 +179,6 @@
   <channel site="teleboy.ch" site_id="507" lang="fr" xmltv_id="TV5MondeEurope.fr@SD">TV5</channel>
   <channel site="teleboy.ch" site_id="509" lang="it" xmltv_id="UniNettunoUniversityTV.it@SD">UniNettuno University TV</channel>
   <channel site="teleboy.ch" site_id="511" lang="de" xmltv_id="WeltderWunderTV.de@SD">Welt der Wunder TV</channel>
-  <channel site="teleboy.ch" site_id="512" lang="en" xmltv_id="UYesterday.uk@SD">Yesterday</channel>
   <channel site="teleboy.ch" site_id="517" lang="fr" xmltv_id="BlueZoomF.ch@SD">blue Zoom fr</channel>
   <channel site="teleboy.ch" site_id="518" lang="de" xmltv_id="Voxup.de@SD">VOXup</channel>
   <channel site="teleboy.ch" site_id="519" lang="de" xmltv_id="TeleZ.ch@SD">Tele Z</channel>
@@ -247,17 +205,11 @@
   <channel site="teleboy.ch" site_id="553" lang="it" xmltv_id="TGCom24.it@SD">TGcom24</channel>
   <channel site="teleboy.ch" site_id="554" lang="it" xmltv_id="TopCrime.it@SD">TOPcrime</channel>
   <channel site="teleboy.ch" site_id="555" lang="it" xmltv_id="Cine34.it@SD">Cine34</channel>
-  <channel site="teleboy.ch" site_id="557" lang="en" xmltv_id="5STAR.uk@SD">5STAR</channel>
   <channel site="teleboy.ch" site_id="558" lang="de" xmltv_id="AuftankenTV.ch@SD">auftanken.tv</channel>
   <channel site="teleboy.ch" site_id="559" lang="de" xmltv_id="SchaffhauserFernsehen.ch@SD">Schaffhauser Fernsehen</channel>
   <channel site="teleboy.ch" site_id="560" lang="de" xmltv_id="TeleD.ch@SD">Tele D</channel>
   <channel site="teleboy.ch" site_id="562" lang="de" xmltv_id="SchlagerDeluxe.de@SD">Schlager Deluxe</channel>
   <channel site="teleboy.ch" site_id="563" lang="de" xmltv_id="MelodieTV.at@SD">Melodie TV</channel>
-  <channel site="teleboy.ch" site_id="564" lang="en" xmltv_id="BBCThree.uk@SD">BBC Three</channel>
-  <channel site="teleboy.ch" site_id="565" lang="en" xmltv_id="BloombergQuicktake.us@SD">Bloomberg Quicktake HD</channel>
-  <channel site="teleboy.ch" site_id="566" lang="en" xmltv_id="5Action.uk@SD">5ACTION</channel>
-  <channel site="teleboy.ch" site_id="567" lang="en" xmltv_id="Now70s.uk@SD">Now70s</channel>
-  <channel site="teleboy.ch" site_id="568" lang="en" xmltv_id="Now80s.uk@SD">Now80s</channel>
   <channel site="teleboy.ch" site_id="573" lang="it" xmltv_id="Twentyseven.it@SD">27 Twentyseven</channel>
   <channel site="teleboy.ch" site_id="574" lang="it" xmltv_id="HGTV.it@SD">HGTV Italy</channel>
   <channel site="teleboy.ch" site_id="575" lang="it" xmltv_id="AlmaTV.it@SD">Alma TV</channel>
@@ -270,14 +222,10 @@
   <channel site="teleboy.ch" site_id="589" lang="kr" xmltv_id="ArirangWorld.kr@SD">Arirang TV</channel>
   <channel site="teleboy.ch" site_id="590" lang="kr" xmltv_id="KBSWorld.kr@SD">KBS World</channel>
   <channel site="teleboy.ch" site_id="591" lang="ja" xmltv_id="NHKWorldJapan.jp@SD">NHK World</channel>
-  <channel site="teleboy.ch" site_id="592" lang="en" xmltv_id="E4Extra.uk@SD">E4 Extra</channel>
   <channel site="teleboy.ch" site_id="593" lang="de" xmltv_id="">wedo movies</channel>
   <channel site="teleboy.ch" site_id="594" lang="de" xmltv_id="SwissSportTV.ch@SD">Swiss Sport TV</channel>
   <channel site="teleboy.ch" site_id="595" lang="de" xmltv_id="WorldofFreesports.de@SD">World of Freesports</channel>
   <channel site="teleboy.ch" site_id="598" lang="de" xmltv_id="Filmgold.de@HD">Filmgold</channel>
-  <channel site="teleboy.ch" site_id="600" lang="en" xmltv_id="DMAX.uk@UK">DMAX UK</channel>
-  <channel site="teleboy.ch" site_id="601" lang="en" xmltv_id="QuestRed.uk@SD">Quest Red</channel>
-  <channel site="teleboy.ch" site_id="602" lang="en" xmltv_id="Quest.uk@SD">Quest</channel>
   <channel site="teleboy.ch" site_id="606" lang="it" xmltv_id="FoodNetwork.it@SD">Food Network Italia HD</channel>
   <channel site="teleboy.ch" site_id="608" lang="it" xmltv_id="MotorTrend.it@SD">Motor Trend HD</channel>
   <channel site="teleboy.ch" site_id="609" lang="de" xmltv_id="WedoBigStories.ch@SD">Wedo Big Stories</channel>
@@ -291,7 +239,6 @@
   <channel site="teleboy.ch" site_id="617" lang="fr" xmltv_id="">Homicide</channel>
   <channel site="teleboy.ch" site_id="618" lang="de" xmltv_id="SpiegelTV.de@HD">SPIEGEL TV Konflikt</channel>
   <channel site="teleboy.ch" site_id="620" lang="de" xmltv_id="TerraMaterWILD.de@German">Terra Mater Wild</channel>
-  <channel site="teleboy.ch" site_id="621" lang="en" xmltv_id="RedBullTV.at@EUMENA">Red Bull TV (engl.)</channel>
   <channel site="teleboy.ch" site_id="622" lang="de" xmltv_id="MySportsOne.ch@SD">MySports Eins</channel>
   <channel site="teleboy.ch" site_id="623" lang="fr" xmltv_id="MySportsOneFrench.ch@SD">MySports Un</channel>
   <channel site="teleboy.ch" site_id="624" lang="de" xmltv_id="MySports2.ch@SD">MySports 2</channel>
