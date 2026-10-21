@@ -42,7 +42,7 @@ TARGETS.forEach((target, index) => {
   console.log(`\n[${stepNum}/${TARGETS.length}] Grabbing: ${target.name} (lang: ${target.lang})...`);
   console.log(`     Target Sites: ${target.sites}`);
 
-  const cmd = `npm run grab -- --sites="${target.sites}" --lang="${target.lang}" --output="${relativeChunk}" --maxConnections=25 --days=1 --timeout=3000`;
+  const cmd = `npx tsx scripts/commands/epg/grab.ts --sites="${target.sites}" --lang="${target.lang}" --output="${relativeChunk}" --maxConnections=25 --days=3 --timeout=3000`;
 
   const start = Date.now();
   try {
