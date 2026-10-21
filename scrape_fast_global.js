@@ -16,14 +16,14 @@ const TARGETS = [
     name: 'USA & English', 
     lang: 'en', 
     streamUrl: 'https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz',
-    maxChannels: 500,
+    maxChannels: null, // Unlimited: Grab 100% of ALL US channels!
     sites: 'epgshare01.online,tvtv.us' 
   },
   { 
     name: 'Russia', 
     lang: 'ru', 
     streamUrl: 'https://iptvx.one/epg/epg_noarch.xml.gz',
-    maxChannels: 500,
+    maxChannels: null, // Unlimited: Grab 100% of ALL Russian channels!
     sites: 'ctc.ru' 
   },
   { name: 'Spanish (Spain & LatAm)', lang: 'es', sites: 'gatotv.com,movistarplus.es,mi.tv' },
@@ -68,7 +68,7 @@ async function streamExtractChunk(url, maxChannels, outputPath, label) {
     if (line.includes('<channel id=')) {
       const idMatch = line.match(/id="([^"]+)"/);
       const id = idMatch ? idMatch[1] : null;
-      if (channelCount < maxChannels && id) {
+      if ((!maxChannels || channelCount < maxChannels) && id) {
         targetChannelIds.add(id);
         channelCount++;
         if (line.includes('</channel>')) {
