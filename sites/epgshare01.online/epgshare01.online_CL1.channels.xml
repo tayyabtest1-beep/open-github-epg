@@ -89,4 +89,5 @@
   <channel site="epgshare01.online" site_id="CL1#Canal.Vía.X.cl" lang="es" xmltv_id="">Canal Vía X</channel>
   <channel site="epgshare01.online" site_id="CL1#Canal.Warner.TV.(Chile).cl" lang="es" xmltv_id="">Canal Warner TV (Chile)</channel>
   <channel site="epgshare01.online" site_id="CL1#Canal.Zona.Latina.cl" lang="es" xmltv_id="">Canal Zona Latina</channel>
+  <channel site="epgshare01.online" site_id="CL1#TV.Chile.cl" lang="en" xmltv_id="">TV Chile</channel>
 </channels>

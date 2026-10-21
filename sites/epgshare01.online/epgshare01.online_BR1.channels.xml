@@ -265,4 +265,5 @@
   <channel site="epgshare01.online" site_id="BR1#São.Paulo/SP..ZooMoo.br" lang="pt" xmltv_id="">São Paulo/SP ZooMoo</channel>
   <channel site="epgshare01.online" site_id="BR1#São.Paulo/SP..ZooMoo.HD.br" lang="pt" xmltv_id="">São Paulo/SP ZooMoo HD</channel>
   <channel site="epgshare01.online" site_id="BR1#São.Paulo/SP.Record.News.br" lang="pt" xmltv_id="">São Paulo/SP Record News</channel>
+  <channel site="epgshare01.online" site_id="BR1#Sony.Movies.Brazil.br" lang="en" xmltv_id="">Sony Movies Brazil</channel>
 </channels>

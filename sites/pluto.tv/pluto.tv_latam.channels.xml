@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+  <channel site="pluto.tv" site_id="5de802659167b10009e7deba" lang="en" xmltv_id="PlutoTVSeriesRetro.us@LatAm">Pluto TV Series Retro</channel>
   <channel site="pluto.tv" site_id="61a52615cbef2500072876e2" lang="es" xmltv_id="AcapulcoShore.us@LatAm">Acapulco Shore Pluto TV</channel>
   <channel site="pluto.tv" site_id="646ccd3681844c000974d6f4" lang="es" xmltv_id="">ADN Noticias</channel>
   <channel site="pluto.tv" site_id="61b793ccf571b80007b7a610" lang="es" xmltv_id="">Adrenalina Pura TV</channel>

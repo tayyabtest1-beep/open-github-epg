@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+  <channel site="pluto.tv" site_id="62cd74e38f6f0d000798cd93" lang="en" xmltv_id="PlutoTVSport.se@SE">Pluto TV Sport</channel>
+  <channel site="pluto.tv" site_id="61c0b627e3ed94000793c18a" lang="en" xmltv_id="">South Park</channel>
   <channel site="pluto.tv" site_id="6728cab6e482950008b76d8c" lang="sv" xmltv_id="">7th Heaven</channel>
   <channel site="pluto.tv" site_id="699c169077cdde1f05252eb9" lang="sv" xmltv_id="">21 Jump Street</channel>
   <channel site="pluto.tv" site_id="6346935b94aa8c0007c5b7a2" lang="sv" xmltv_id="">48 Hours</channel>
