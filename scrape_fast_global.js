@@ -16,14 +16,14 @@ const TARGETS = [
     name: 'USA & English', 
     lang: 'en', 
     streamUrl: 'https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz',
-    maxChannels: null, // Unlimited: Grab 100% of ALL US channels!
+    maxChannels: 500,
     sites: 'epgshare01.online,tvtv.us' 
   },
   { 
     name: 'Russia', 
     lang: 'ru', 
     streamUrl: 'https://iptvx.one/epg/epg_noarch.xml.gz',
-    maxChannels: null, // Unlimited: Grab 100% of ALL Russian channels!
+    maxChannels: 500,
     sites: 'ctc.ru' 
   },
   { name: 'Spanish (Spain & LatAm)', lang: 'es', sites: 'gatotv.com,movistarplus.es,mi.tv' },
